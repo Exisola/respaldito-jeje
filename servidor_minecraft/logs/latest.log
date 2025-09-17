@@ -320,3 +320,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Sep2025 23:26:57.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [Birds of a Feather]
 [17Sep2025 23:27:04.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has completed the challenge [Praise the Sun]
 [17Sep2025 23:30:59.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Teleported renny_lopez_2020 to 1284.500000, 40.500000, 1046.500000]
+[17Sep2025 23:32:47.617] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alest lost connection: Disconnected
+[17Sep2025 23:32:47.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest left the game
+[17Sep2025 23:33:23.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 has made the advancement [Take Aim, Chaps!]
+[17Sep2025 23:34:30.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 has made the advancement [Take Aim]
+[17Sep2025 23:38:01.524] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alest[/127.187.155.65:60497] logged in with entity id 28595 at (2188.8281137792555, 66.0, 457.65643940808394)
+[17Sep2025 23:38:01.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest joined the game
+[17Sep2025 23:38:01.549] [Server thread/INFO] [Jade/]: Syncing config to Alest (4c936e16-7e1c-33dd-93da-5f1579d39599)
+[17Sep2025 23:38:54.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to 1271.500000, 65.500000, 990.500000]
+[17Sep2025 23:40:49.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Teleported renny_lopez_2020 to 1284.500000, 40.500000, 1046.500000]
+[17Sep2025 23:41:16.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Set own game mode to Creative Mode]
+[17Sep2025 23:41:44.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Set own game mode to Survival Mode]

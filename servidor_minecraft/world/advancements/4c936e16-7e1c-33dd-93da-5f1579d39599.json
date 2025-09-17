@@ -3473,21 +3473,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-09-17 22:44:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-09-17 22:44:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-09-17 22:48:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-09-17 22:53:36 +0000"
-    },
-    "done": true
-  },
-  "many_more_ores_and_crafts:unlock_emerald_recipes": {
-    "criteria": {
-      "get_amethyst_shard": "2025-09-17 23:17:07 +0000"
     },
     "done": true
   },
@@ -3503,45 +3503,9 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/spectral_bolt": {
-    "criteria": {
-      "has_glowstone_dust": "2025-09-17 23:16:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-09-17 23:25:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-09-17 23:28:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-09-17 22:52:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-09-17 22:48:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-09-17 23:22:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-09-17 22:49:39 +0000"
     },
     "done": true
   },
@@ -3551,45 +3515,75 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/mossy_cobblestone_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-09-17 22:52:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-09-17 22:48:32 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/bow_repairing": {
+  "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
-      "has_bow": "2025-09-17 22:54:09 +0000"
+      "has_planks": "2025-09-17 22:48:32 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/netherite_arrow": {
+  "mcwbridges:recipes/birch_rail_bridge": {
     "criteria": {
-      "has_bow": "2025-09-17 22:54:09 +0000"
+      "has_planks": "2025-09-17 22:48:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/target": {
+  "mcwbridges:recipes/birch_log_bridge_middle": {
     "criteria": {
-      "has_hay_block": "2025-09-17 22:58:07 +0000"
+      "has_planks": "2025-09-17 22:48:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-17 22:48:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-17 22:48:32 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_birch_bridge": {
+    "criteria": {
+      "has_planks": "2025-09-17 22:48:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-09-17 22:49:39 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2025-09-17 22:50:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-17 22:52:34 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-09-17 22:52:34 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-09-17 22:52:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_stairs": {
-    "criteria": {
-      "has_planks": "2025-09-17 22:48:32 +0000"
     },
     "done": true
   },
@@ -3611,78 +3605,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-09-17 22:54:09 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:sneak_grove": {
-    "criteria": {
-      "sneak_grove": "2025-09-17 23:26:57 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/kangaroo": {
-    "criteria": {
-      "killed_by": "2025-09-17 22:55:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-09-17 23:16:47 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/birch_rail_bridge": {
-    "criteria": {
-      "has_planks": "2025-09-17 22:48:32 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
-    "criteria": {
-      "leafcutter_ant_pupa": "2025-09-17 22:50:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-09-17 23:28:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_item_frame": "2025-09-17 23:25:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2025-09-17 23:17:07 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2025-09-17 23:16:33 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/small_arrow_quiver": {
-    "criteria": {
-      "has_arrow": "2025-09-17 22:53:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2025-09-17 22:44:02 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/mossy_cobblestone_bridge": {
     "criteria": {
       "has_planks": "2025-09-17 22:52:34 +0000"
@@ -3692,18 +3614,6 @@
   "mcwbridges:recipes/mossy_stone_brick_bridge": {
     "criteria": {
       "has_planks": "2025-09-17 22:52:34 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/birch_log_bridge_middle": {
-    "criteria": {
-      "has_planks": "2025-09-17 22:48:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2025-09-17 22:44:02 +0000"
     },
     "done": true
   },
@@ -3719,36 +3629,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-09-17 22:48:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2025-09-17 23:16:47 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_umvuthi": {
-    "criteria": {
-      "barako": "2025-09-17 23:27:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wheat": {
-    "criteria": {
-      "has_hay_block": "2025-09-17 22:58:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-09-17 22:48:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-09-17 22:52:34 +0000"
@@ -3761,9 +3641,309 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/rope_birch_bridge": {
+  "minecraft:story/deflect_arrow": {
     "criteria": {
-      "has_planks": "2025-09-17 22:48:32 +0000"
+      "deflected_projectile": "2025-09-17 22:53:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/small_arrow_quiver": {
+    "criteria": {
+      "has_arrow": "2025-09-17 22:53:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-09-17 22:54:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/netherite_arrow": {
+    "criteria": {
+      "has_bow": "2025-09-17 22:54:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-09-17 22:54:09 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-09-17 22:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-09-17 22:58:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-09-17 22:58:07 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-09-17 23:16:33 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spectral_bolt": {
+    "criteria": {
+      "has_glowstone_dust": "2025-09-17 23:16:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-09-17 23:16:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-09-17 23:16:47 +0000"
+    },
+    "done": true
+  },
+  "many_more_ores_and_crafts:unlock_emerald_recipes": {
+    "criteria": {
+      "get_amethyst_shard": "2025-09-17 23:17:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-09-17 23:17:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-09-17 23:22:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-09-17 23:25:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-09-17 23:25:36 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "sneak_grove": "2025-09-17 23:26:57 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-09-17 23:27:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-09-17 23:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-09-17 23:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-17 23:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-17 23:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-17 23:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-17 23:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-17 23:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-17 23:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-17 23:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-17 23:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-17 23:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-17 23:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-17 23:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-17 23:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-17 23:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-09-17 23:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-17 23:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-17 23:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-09-17 23:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-17 23:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-17 23:31:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-09-17 23:31:08 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-09-17 23:31:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-09-17 23:31:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-17 23:31:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-17 23:31:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-09-17 23:31:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-17 23:31:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-09-17 23:31:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-09-17 23:31:08 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_dark_oak_bridge": {
+    "criteria": {
+      "has_planks": "2025-09-17 23:31:08 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-09-17 23:31:08 +0000"
     },
     "done": true
   },
