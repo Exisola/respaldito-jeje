@@ -31,6 +31,7 @@
       "minecraft:dark_forest": "2025-09-17 04:08:37 +0000",
       "minecraft:sparse_jungle": "2025-09-17 03:51:34 +0000",
       "minecraft:river": "2025-09-17 03:17:34 +0000",
+      "minecraft:lukewarm_ocean": "2025-09-17 23:26:23 +0000",
       "minecraft:snowy_plains": "2025-09-17 03:06:26 +0000",
       "minecraft:snowy_taiga": "2025-09-17 03:01:28 +0000",
       "minecraft:dripstone_caves": "2025-09-17 23:04:46 +0000",
@@ -1657,9 +1658,12 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-09-17 23:28:41 +0000",
       "cooked_mutton": "2025-09-17 22:42:27 +0000",
       "cooked_beef": "2025-09-17 03:27:02 +0000",
+      "potato": "2025-09-17 23:28:14 +0000",
       "mutton": "2025-09-17 03:14:44 +0000",
+      "golden_apple": "2025-09-17 23:24:45 +0000",
       "suspicious_stew": "2025-09-17 03:06:33 +0000",
       "salmon": "2025-09-17 03:13:42 +0000"
     },
@@ -2241,6 +2245,8 @@
   "many_more_ores_and_crafts:ores_achievement": {
     "criteria": {
       "ores_achievement_3": "2025-09-17 03:50:25 +0000",
+      "ores_achievement_10": "2025-09-17 23:13:01 +0000",
+      "ores_achievement_4": "2025-09-17 23:12:20 +0000",
       "ores_achievement_5": "2025-09-17 04:32:16 +0000",
       "ores_achievement_0": "2025-09-17 04:32:34 +0000",
       "ores_achievement_1": "2025-09-17 04:40:45 +0000",
@@ -2854,6 +2860,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_battle_hammer": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-17 23:22:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-09-17 23:01:22 +0000"
@@ -2872,6 +2884,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_boomerang": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-17 23:22:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-09-17 23:04:22 +0000"
@@ -2884,9 +2902,39 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
+    "criteria": {
+      "has_chainmail_gloves": "2025-09-17 23:15:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_glaive": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-17 23:22:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-09-17 23:01:25 +0000"
+    },
+    "done": true
+  },
+  "many_more_ores_and_crafts:unlock_titanium_furnace_recipes": {
+    "criteria": {
+      "get_titanium_ingot": "2025-09-17 23:13:01 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/copper_tower_shield": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-17 23:22:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-17 23:22:41 +0000"
     },
     "done": true
   },
@@ -2905,6 +2953,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-09-17 23:03:27 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/wood_to_copper_chest_upgrade": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-17 23:22:41 +0000"
     },
     "done": true
   },
@@ -2968,6 +3022,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-17 23:22:41 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_mossy_cobblestone_bridge": {
     "criteria": {
       "has_planks": "2025-09-17 23:01:25 +0000"
@@ -2989,6 +3049,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-09-17 23:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-17 23:22:41 +0000"
     },
     "done": true
   },
@@ -3022,15 +3088,51 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_dagger": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-17 23:22:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-09-17 23:01:22 +0000"
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_heavy_crossbow": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-17 23:22:41 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bolt": {
+    "criteria": {
+      "has_feather": "2025-09-17 23:25:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_flanged_mace": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-17 23:22:41 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_scythe": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-17 23:22:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-09-17 23:01:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_bolt": {
+    "criteria": {
+      "has_feather": "2025-09-17 23:25:36 +0000"
     },
     "done": true
   },
@@ -3043,6 +3145,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-09-17 23:01:22 +0000"
+    },
+    "done": true
+  },
+  "many_more_ores_and_crafts:unlock_mythril_furnace_recipes": {
+    "criteria": {
+      "get_mythril_ingot": "2025-09-17 23:12:20 +0000"
     },
     "done": true
   },
@@ -3064,6 +3172,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/copper_basic_shield": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-17 23:22:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-09-17 23:04:22 +0000"
@@ -3079,6 +3193,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-09-17 23:04:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-09-17 23:19:23 +0000"
     },
     "done": true
   },
@@ -3106,6 +3226,36 @@
     },
     "done": true
   },
+  "mcwlights:recipes/copper_stuff": {
+    "criteria": {
+      "has_wood": "2025-09-17 23:22:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-09-17 23:19:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-09-17 23:25:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_bolt": {
+    "criteria": {
+      "has_feather": "2025-09-17 23:25:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2025-09-17 23:25:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-09-17 23:05:05 +0000"
@@ -3115,6 +3265,12 @@
   "mcwstairs:recipes/granite": {
     "criteria": {
       "has_planks": "2025-09-17 23:01:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_warhammer": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-17 23:22:41 +0000"
     },
     "done": true
   },
@@ -3130,9 +3286,33 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_battleaxe": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-17 23:22:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-09-17 23:04:22 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-17 23:22:41 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_quarterstaff": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-17 23:22:41 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_greatsword": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-17 23:22:41 +0000"
     },
     "done": true
   },
@@ -3142,15 +3322,57 @@
     },
     "done": true
   },
+  "aether:recipes/combat/chainmail_gloves_repairing": {
+    "criteria": {
+      "has_chainmail_gloves": "2025-09-17 23:15:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_lance": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-17 23:22:41 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_javelin": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-17 23:22:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_chainmail_gloves": "2025-09-17 23:15:07 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/handle_from_string": {
     "criteria": {
       "has_string": "2025-09-17 23:03:27 +0000"
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_tomahawk": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-17 23:22:41 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_pike": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-17 23:22:41 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/mossy_cobblestone_bridge": {
     "criteria": {
       "has_planks": "2025-09-17 23:01:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_spear": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-17 23:22:41 +0000"
     },
     "done": true
   },
@@ -3166,6 +3388,24 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_parrying_dagger": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-17 23:22:41 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_halberd": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-17 23:22:41 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_katana": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-17 23:22:41 +0000"
+    },
+    "done": true
+  },
   "mcwstairs:recipes/diorite": {
     "criteria": {
       "has_planks": "2025-09-17 23:01:22 +0000"
@@ -3175,6 +3415,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-09-17 23:03:59 +0000"
+    },
+    "done": true
+  },
+  "many_more_ores_and_crafts:unlock_copper_recipes": {
+    "criteria": {
+      "get_amethyst_shard": "2025-09-17 23:22:41 +0000"
     },
     "done": true
   },
@@ -3190,6 +3436,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-09-17 23:19:23 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/mossy_cobblestone_bridge_stair": {
     "criteria": {
       "has_planks": "2025-09-17 23:01:25 +0000"
@@ -3202,9 +3454,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_longbow": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-17 23:22:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-09-17 23:04:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_longsword": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-17 23:22:41 +0000"
     },
     "done": true
   },
@@ -3226,6 +3490,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_saber": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-17 23:22:41 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_rapier": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-17 23:22:41 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_diorite_bridge": {
     "criteria": {
       "has_planks": "2025-09-17 23:01:22 +0000"
@@ -3235,6 +3511,12 @@
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-09-17 23:01:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_throwing_knife": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-17 23:22:41 +0000"
     },
     "done": true
   },

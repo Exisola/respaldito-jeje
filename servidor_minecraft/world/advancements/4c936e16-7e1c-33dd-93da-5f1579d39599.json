@@ -31,6 +31,7 @@
       "minecraft:beach": "2025-09-17 03:17:49 +0000",
       "minecraft:sparse_jungle": "2025-09-17 22:49:15 +0000",
       "minecraft:river": "2025-09-17 03:17:24 +0000",
+      "minecraft:lukewarm_ocean": "2025-09-17 23:26:25 +0000",
       "minecraft:snowy_taiga": "2025-09-17 03:03:56 +0000",
       "minecraft:forest": "2025-09-17 03:17:39 +0000",
       "minecraft:frozen_ocean": "2025-09-17 03:10:53 +0000",
@@ -1840,6 +1841,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-09-17 23:22:34 +0000",
       "minecraft:skeleton": "2025-09-17 22:53:37 +0000",
       "minecraft:spider": "2025-09-17 03:52:27 +0000",
       "minecraft:creeper": "2025-09-17 22:54:24 +0000",
@@ -3483,6 +3485,12 @@
     },
     "done": true
   },
+  "many_more_ores_and_crafts:unlock_emerald_recipes": {
+    "criteria": {
+      "get_amethyst_shard": "2025-09-17 23:17:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-09-17 22:48:32 +0000"
@@ -3495,6 +3503,24 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spectral_bolt": {
+    "criteria": {
+      "has_glowstone_dust": "2025-09-17 23:16:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-09-17 23:25:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-09-17 23:28:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-09-17 22:52:34 +0000"
@@ -3504,6 +3530,12 @@
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-09-17 22:48:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-09-17 23:22:42 +0000"
     },
     "done": true
   },
@@ -3585,9 +3617,21 @@
     },
     "done": true
   },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "sneak_grove": "2025-09-17 23:26:57 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/kangaroo": {
     "criteria": {
       "killed_by": "2025-09-17 22:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-09-17 23:16:47 +0000"
     },
     "done": true
   },
@@ -3600,6 +3644,30 @@
   "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
     "criteria": {
       "leafcutter_ant_pupa": "2025-09-17 22:50:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-09-17 23:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-09-17 23:25:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-09-17 23:17:07 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-09-17 23:16:33 +0000"
     },
     "done": true
   },
@@ -3654,6 +3722,18 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-17 22:48:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-09-17 23:16:47 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-09-17 23:27:04 +0000"
     },
     "done": true
   },

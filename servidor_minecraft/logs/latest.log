@@ -305,3 +305,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Sep2025 23:10:43.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Survival Mode]
 [17Sep2025 23:11:14.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Creative Mode]
 [17Sep2025 23:12:04.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Survival Mode]
+[17Sep2025 23:14:07.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> un sec
+[17Sep2025 23:16:33.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [Mine? Mine? Mine?]
+[17Sep2025 23:21:56.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Teleported renny_lopez_2020 to 1284.500000, 40.500000, 1046.500000]
+[17Sep2025 23:22:42.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [Voluntary Exile]
+[17Sep2025 23:23:42.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Creative Mode]
+[17Sep2025 23:23:53.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Teleported renny_lopez_2020 to Alest]
+[17Sep2025 23:24:12.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Survival Mode]
+[17Sep2025 23:25:22.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [Take Aim]
+[17Sep2025 23:25:39.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest was doomed to fall
+[17Sep2025 23:25:49.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to renny_lopez_2020]
+[17Sep2025 23:26:16.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest drowned
+[17Sep2025 23:26:24.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to renny_lopez_2020]
+[17Sep2025 23:26:57.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [Birds of a Feather]
+[17Sep2025 23:27:04.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has completed the challenge [Praise the Sun]
+[17Sep2025 23:30:59.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Teleported renny_lopez_2020 to 1284.500000, 40.500000, 1046.500000]
