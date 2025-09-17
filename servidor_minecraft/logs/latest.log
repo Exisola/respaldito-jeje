@@ -298,3 +298,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Sep2025 22:53:36.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [Not Today, Thank You]
 [17Sep2025 22:55:49.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [We do a little trolling...]
 [17Sep2025 22:59:06.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alest moved too quickly! -5.0398084190183,1.7684762024129839,8.607817849335106
+[17Sep2025 23:04:53.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 has made the advancement [Not Today, Thank You]
+[17Sep2025 23:06:19.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Creative Mode]
+[17Sep2025 23:09:29.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Survival Mode]
+[17Sep2025 23:09:44.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Creative Mode]
+[17Sep2025 23:10:43.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Survival Mode]
+[17Sep2025 23:11:14.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Creative Mode]
+[17Sep2025 23:12:04.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Survival Mode]
