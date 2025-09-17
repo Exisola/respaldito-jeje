@@ -3947,5 +3947,11 @@
     },
     "done": true
   },
+  "aether:recipes/tools/stone_shovel_repairing": {
+    "criteria": {
+      "has_stone_shovel": "2025-09-17 23:42:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
