@@ -201,3 +201,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Sep2025 22:27:50.170] [Server thread/INFO] [Jade/]: Syncing config to renny_lopez_2020 (2f9457af-7f4e-3f5f-b2c9-33b3fe1ad451)
 [17Sep2025 22:28:01.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [Tungsten Sword ]
 [17Sep2025 22:28:20.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [It's red]
+[17Sep2025 22:31:23.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to 1280.500000, 41.500000, 1057.500000]
+[17Sep2025 22:31:32.418] [Worker-Main-18/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[17Sep2025 22:36:49.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Creative Mode]
+[17Sep2025 22:37:02.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Survival Mode]
+[17Sep2025 22:37:45.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to 1271.500000, 65.500000, 990.500000]
+[17Sep2025 22:39:34.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Creative Mode]
+[17Sep2025 22:39:54.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Survival Mode]

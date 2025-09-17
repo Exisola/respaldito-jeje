@@ -3022,3 +3022,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Sep2025 22:27:50.955] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1758148070947
 [17Sep2025 22:28:01.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [Tungsten Sword ]
 [17Sep2025 22:28:20.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [It's red]
+[17Sep2025 22:28:41.683] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[17Sep2025 22:28:41.683] [Server thread/DEBUG] [mixin/]: Mixing PiglinAiMixin from accessories-common.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[17Sep2025 22:29:35.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Sep2025 22:29:35.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Sep2025 22:31:23.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to 1280.500000, 41.500000, 1057.500000]
+[17Sep2025 22:31:31.224] [Worker-Main-17/DEBUG] [mixin/]: Mixing common.accessor.WorldGenRegionAccessor from aether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[17Sep2025 22:31:32.418] [Worker-Main-18/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[17Sep2025 22:34:35.861] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Sep2025 22:34:35.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Sep2025 22:36:49.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Creative Mode]
+[17Sep2025 22:37:02.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Survival Mode]
+[17Sep2025 22:37:45.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to 1271.500000, 65.500000, 990.500000]
+[17Sep2025 22:39:34.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Creative Mode]
+[17Sep2025 22:39:35.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Sep2025 22:39:35.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Sep2025 22:39:54.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Survival Mode]
