@@ -3038,3 +3038,195 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Sep2025 22:39:35.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Sep2025 22:39:35.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [17Sep2025 22:39:54.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Survival Mode]
+[17Sep2025 22:42:49.559] [Server thread/INFO] [tacz/GunPackFinder]: Start scanning for gun packs in /workspaces/respaldito-jeje/servidor_minecraft/tacz
+[17Sep2025 22:42:49.560] [Server thread/INFO] [tacz/GunPackFinder]: - tacz_default_gun, Main namespace: tacz
+[17Sep2025 22:42:49.560] [Server thread/INFO] [tacz/GunPackFinder]: Found 1 possible gunpack(s) and added them to resource set.
+[17Sep2025 22:42:49.600] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:mowziesmobs for mod file /workspaces/respaldito-jeje/servidor_minecraft/mods/mowziesmobs-1.7.3.jar
+[17Sep2025 22:42:49.601] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:kuma_api for mod file 
+[17Sep2025 22:42:49.601] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:geckolib for mod file /workspaces/respaldito-jeje/servidor_minecraft/mods/geckolib-forge-1.20.1-4.7.4.jar
+[17Sep2025 22:42:49.601] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:aether for mod file /workspaces/respaldito-jeje/servidor_minecraft/mods/aether-1.20.1-1.5.2-neoforge.jar
+[17Sep2025 22:42:49.601] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:jei for mod file /workspaces/respaldito-jeje/servidor_minecraft/mods/jei-1.20.1-forge-15.20.0.112.jar
+[17Sep2025 22:42:49.601] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:tacz for mod file /workspaces/respaldito-jeje/servidor_minecraft/mods/tacz-1.20.1-1.1.6-hotfix.jar
+[17Sep2025 22:42:49.601] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:sophisticatedcore for mod file /workspaces/respaldito-jeje/servidor_minecraft/mods/sophisticatedcore-1.20.1-1.2.86.1132.jar
+[17Sep2025 22:42:49.601] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:waystones for mod file /workspaces/respaldito-jeje/servidor_minecraft/mods/waystones-forge-1.20.1-14.1.17.jar
+[17Sep2025 22:42:49.602] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:mcwpaintings for mod file /workspaces/respaldito-jeje/servidor_minecraft/mods/mcw-paintings-1.0.5-1.20.1forge.jar
+[17Sep2025 22:42:49.602] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:xaeroworldmap for mod file /workspaces/respaldito-jeje/servidor_minecraft/mods/XaerosWorldMap_1.39.12_Forge_1.20.jar
+[17Sep2025 22:42:49.602] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:citadel for mod file /workspaces/respaldito-jeje/servidor_minecraft/mods/citadel-2.6.2-1.20.1.jar
+[17Sep2025 22:42:49.602] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:alexsmobs for mod file /workspaces/respaldito-jeje/servidor_minecraft/mods/alexsmobs-1.22.9.jar
+[17Sep2025 22:42:49.602] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:artifacts for mod file /workspaces/respaldito-jeje/servidor_minecraft/mods/artifacts-forge-9.5.16.jar
+[17Sep2025 22:42:49.602] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:mcwstairs for mod file /workspaces/respaldito-jeje/servidor_minecraft/mods/mcw-stairs-1.0.1-1.20.1forge.jar
+[17Sep2025 22:42:49.602] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_data_attachment_api_v1 for mod file 
+[17Sep2025 22:42:49.602] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:mixinextras for mod file 
+[17Sep2025 22:42:49.603] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:glitchcore for mod file /workspaces/respaldito-jeje/servidor_minecraft/mods/GlitchCore-forge-1.20.1-0.0.1.1.jar
+[17Sep2025 22:42:49.603] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:sophisticatedbackpacks for mod file /workspaces/respaldito-jeje/servidor_minecraft/mods/sophisticatedbackpacks-1.20.1-3.24.2.1339.jar
+[17Sep2025 22:42:49.603] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:mcwdoors for mod file /workspaces/respaldito-jeje/servidor_minecraft/mods/mcw-doors-1.1.2-mc1.20.1forge.jar
+[17Sep2025 22:42:49.603] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:balm for mod file /workspaces/respaldito-jeje/servidor_minecraft/mods/balm-forge-1.20.1-7.3.34-all.jar
+[17Sep2025 22:42:49.603] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:cloth_config for mod file /workspaces/respaldito-jeje/servidor_minecraft/mods/cloth-config-11.1.136-forge.jar
+[17Sep2025 22:42:49.603] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:forge for mod file /workspaces/respaldito-jeje/servidor_minecraft/libraries/net/minecraftforge/forge/1.20.1-47.3.7/forge-1.20.1-47.3.7-universal.jar
+[17Sep2025 22:42:49.603] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:twilightforest for mod file /workspaces/respaldito-jeje/servidor_minecraft/mods/twilightforest-1.20.1-4.3.2508-universal.jar
+[17Sep2025 22:42:49.603] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:ironchest for mod file /workspaces/respaldito-jeje/servidor_minecraft/mods/ironchest-1.20.1-14.4.4.jar
+[17Sep2025 22:42:49.604] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:mcwbridges for mod file /workspaces/respaldito-jeje/servidor_minecraft/mods/mcw-bridges-3.1.0-mc1.20.1forge.jar
+[17Sep2025 22:42:49.604] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:many_more_ores_and_crafts for mod file /workspaces/respaldito-jeje/servidor_minecraft/mods/many_more_ores_and_crafts-forge-1.20.1-1.1.3-1.jar
+[17Sep2025 22:42:49.604] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_api_base for mod file 
+[17Sep2025 22:42:49.604] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:jade for mod file /workspaces/respaldito-jeje/servidor_minecraft/mods/Jade-1.20.1-Forge-11.13.2.jar
+[17Sep2025 22:42:49.604] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:ironfurnaces for mod file /workspaces/respaldito-jeje/servidor_minecraft/mods/ironfurnaces-1.20.1-4.1.6.jar
+[17Sep2025 22:42:49.604] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:creativecore for mod file /workspaces/respaldito-jeje/servidor_minecraft/mods/CreativeCore_FORGE_v2.12.32_mc1.20.1.jar
+[17Sep2025 22:42:49.604] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:curios for mod file /workspaces/respaldito-jeje/servidor_minecraft/mods/curios-forge-5.14.1+1.20.1.jar
+[17Sep2025 22:42:49.604] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:spartanshields for mod file /workspaces/respaldito-jeje/servidor_minecraft/mods/SpartanShields-1.20.1-forge-3.1.1.jar
+[17Sep2025 22:42:49.604] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:xaerominimap for mod file /workspaces/respaldito-jeje/servidor_minecraft/mods/Xaeros_Minimap_25.2.10_Forge_1.20.jar
+[17Sep2025 22:42:49.605] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_entity_events_v1 for mod file 
+[17Sep2025 22:42:49.605] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:accessories for mod file /workspaces/respaldito-jeje/servidor_minecraft/mods/accessories-neoforge-1.0.0-beta.46+1.20.1.jar
+[17Sep2025 22:42:49.605] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:cumulus_menus for mod file /workspaces/respaldito-jeje/servidor_minecraft/mods/cumulus_menus-1.20.1-1.0.0-neoforge.jar
+[17Sep2025 22:42:49.605] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:spartanweaponry for mod file /workspaces/respaldito-jeje/servidor_minecraft/mods/SpartanWeaponry-1.20.1-forge-3.2.1-all.jar
+[17Sep2025 22:42:49.605] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:architectury for mod file /workspaces/respaldito-jeje/servidor_minecraft/mods/architectury-9.2.14-forge.jar
+[17Sep2025 22:42:49.605] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:appleskin for mod file /workspaces/respaldito-jeje/servidor_minecraft/mods/appleskin-forge-mc1.20.1-2.5.1.jar
+[17Sep2025 22:42:49.605] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fabric_object_builder_api_v1 for mod file 
+[17Sep2025 22:42:49.605] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:mcwfurnitures for mod file /workspaces/respaldito-jeje/servidor_minecraft/mods/mcw-furniture-3.3.0-mc1.20.1forge.jar
+[17Sep2025 22:42:49.606] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:nitrogen_internals for mod file 
+[17Sep2025 22:42:49.606] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:expandability for mod file 
+[17Sep2025 22:42:49.606] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:mcwlights for mod file /workspaces/respaldito-jeje/servidor_minecraft/mods/mcw-lights-1.1.2-mc1.20.1forge.jar
+[17Sep2025 22:43:03.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Enabling data pack [file/From-The-Fog-Data-Pack-1.20.1.zip (world)]]
+[17Sep2025 22:43:03.465] [Server thread/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
+[17Sep2025 22:43:03.466] [Server thread/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[17Sep2025 22:43:03.946] [Worker-Main-16/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[17Sep2025 22:43:03.990] [Worker-Main-16/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[17Sep2025 22:43:04.125] [Worker-Main-16/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[17Sep2025 22:43:04.219] [Server thread/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[17Sep2025 22:43:04.220] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
+[17Sep2025 22:43:04.224] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[17Sep2025 22:43:04.227] [Server thread/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[17Sep2025 22:43:04.228] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
+[17Sep2025 22:43:04.232] [Server thread/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[17Sep2025 22:43:04.232] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_blasting_bronze_weapons as it's serializer returned null
+[17Sep2025 22:43:04.233] [Server thread/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
+[17Sep2025 22:43:04.233] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_blasting_steel_weapons as it's serializer returned null
+[17Sep2025 22:43:04.234] [Server thread/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[17Sep2025 22:43:04.235] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
+[17Sep2025 22:43:04.235] [Server thread/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[17Sep2025 22:43:04.236] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
+[17Sep2025 22:43:04.240] [Server thread/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[17Sep2025 22:43:04.241] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
+[17Sep2025 22:43:04.241] [Server thread/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[17Sep2025 22:43:04.241] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
+[17Sep2025 22:43:04.244] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[17Sep2025 22:43:04.247] [Server thread/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
+[17Sep2025 22:43:04.247] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_smelting_steel_weapons as it's serializer returned null
+[17Sep2025 22:43:04.248] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[17Sep2025 22:43:04.252] [Server thread/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/copper" Skipping...
+[17Sep2025 22:43:04.252] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:copper_nugget_from_blasting_copper_weapons as it's serializer returned null
+[17Sep2025 22:43:04.253] [Server thread/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[17Sep2025 22:43:04.253] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
+[17Sep2025 22:43:04.255] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[17Sep2025 22:43:04.260] [Server thread/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[17Sep2025 22:43:04.261] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_smelting_bronze_weapons as it's serializer returned null
+[17Sep2025 22:43:04.261] [Server thread/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/copper" Skipping...
+[17Sep2025 22:43:04.261] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:copper_nugget_from_smelting_copper_weapons as it's serializer returned null
+[17Sep2025 22:43:04.273] [Server thread/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[17Sep2025 22:43:04.273] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
+[17Sep2025 22:43:04.275] [Server thread/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[17Sep2025 22:43:04.275] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
+[17Sep2025 22:43:04.278] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[17Sep2025 22:43:04.280] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[17Sep2025 22:43:04.282] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[17Sep2025 22:43:04.283] [Server thread/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[17Sep2025 22:43:04.283] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
+[17Sep2025 22:43:04.286] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[17Sep2025 22:43:04.289] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 23 recipes
+[17Sep2025 22:43:04.289] [Server thread/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.m_77984_(CommandFunction.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[17Sep2025 22:43:04.298] [Server thread/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
+[17Sep2025 22:43:04.322] [Server thread/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[17Sep2025 22:43:04.335] [Server thread/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
+[17Sep2025 22:43:04.339] [Server thread/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[17Sep2025 22:43:04.356] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3120 advancements
+[17Sep2025 22:43:04.383] [Server thread/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[17Sep2025 22:43:04.383] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/woot/block_tools 
+[17Sep2025 22:43:04.383] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/fluxnetworks/block_tools 
+[17Sep2025 22:43:04.383] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/mob_grinding_utils/entity_tools 
+[17Sep2025 22:43:04.383] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/astralsorcery/block_tools 
+[17Sep2025 22:43:04.383] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/immersivepetroleum/block_tools 
+[17Sep2025 22:43:04.383] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/immersiveengineering/block_tools 
+[17Sep2025 22:43:04.383] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/pedestals/block_tools 
+[17Sep2025 22:43:04.383] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/platforms/block_tools 
+[17Sep2025 22:43:04.383] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/rftoolsutility/entity_tools 
+[17Sep2025 22:43:04.383] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/compactmachines/block_tools 
+[17Sep2025 22:43:04.383] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/mcwwindows/block_tools 
+[17Sep2025 22:43:04.383] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/integrateddynamics/block_tools 
+[17Sep2025 22:43:04.383] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:entity_tools 
+[17Sep2025 22:43:04.384] [Server thread/DEBUG] [sophisticatedbackpacks/]: Finished loading registry data for sophisticatedbackpacks:entity_tools
+[17Sep2025 22:43:04.384] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/mekanism/block_tools 
+[17Sep2025 22:43:04.384] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/powah/block_tools 
+[17Sep2025 22:43:04.384] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/apotheosis/entity_tools 
+[17Sep2025 22:43:04.384] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/bloodmagic/block_tools 
+[17Sep2025 22:43:04.384] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/immersiveposts/block_tools 
+[17Sep2025 22:43:04.384] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/rats/entity_tools 
+[17Sep2025 22:43:04.384] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/framedcompactdrawers/block_tools 
+[17Sep2025 22:43:04.384] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/iceandfire/entity_tools 
+[17Sep2025 22:43:04.384] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/storagedrawers/block_tools 
+[17Sep2025 22:43:04.384] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/mcwroofs/block_tools 
+[17Sep2025 22:43:04.384] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/morphtool/block_tools 
+[17Sep2025 22:43:04.384] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/botania/block_tools 
+[17Sep2025 22:43:04.384] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/pneumaticraft/block_tools 
+[17Sep2025 22:43:04.384] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/shrink/entity_tools 
+[17Sep2025 22:43:04.384] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/blockcarpentry/block_tools 
+[17Sep2025 22:43:04.384] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/pipez/block_tools 
+[17Sep2025 22:43:04.384] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/transport/block_tools 
+[17Sep2025 22:43:04.384] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/thermal/block_tools 
+[17Sep2025 22:43:04.384] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:block_tools 
+[17Sep2025 22:43:04.384] [Server thread/DEBUG] [sophisticatedbackpacks/]: Finished loading registry data for sophisticatedbackpacks:block_tools
+[17Sep2025 22:43:04.384] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/create/block_tools 
+[17Sep2025 22:43:04.384] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/farmersdelight/entity_tools 
+[17Sep2025 22:43:04.384] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/refinedstorage/block_tools 
+[17Sep2025 22:43:04.384] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/chiselsandbits/block_tools 
+[17Sep2025 22:43:04.384] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/farmersdelight/block_tools 
+[17Sep2025 22:43:04.384] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/resourcefulbees/entity_tools 
+[17Sep2025 22:43:04.384] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/tetra/swords 
+[17Sep2025 22:43:04.384] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:swords 
+[17Sep2025 22:43:04.384] [Server thread/DEBUG] [sophisticatedbackpacks/]: Finished loading registry data for sophisticatedbackpacks:swords
+[17Sep2025 22:43:04.384] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/mythicbotany/block_tools 
+[17Sep2025 22:43:04.384] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/resourcefulbees/block_tools 
+[17Sep2025 22:43:04.384] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/syp/entity_tools 
+[17Sep2025 22:43:04.384] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/eidolon/block_tools 
+[17Sep2025 22:43:04.384] [Server thread/DEBUG] [sophisticatedbackpacks/]: Started loading registry data from sophisticatedbackpacks:compat/rftoolsbase/block_tools 
+[17Sep2025 22:43:04.393] [Server thread/INFO] [top.theillusivec4.curios.Curios/]: Loaded 17 curio slots
+[17Sep2025 22:43:04.399] [Server thread/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio entities
+[17Sep2025 22:43:06.777] [Server thread/DEBUG] [Spartan Weaponry/]: Initaliasing reloadables for 19 materials, 24 archetypes and 436 items
+[17Sep2025 22:43:06.780] [Server thread/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 2.52036ms
+[17Sep2025 22:43:06.863] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3419ms or 68 ticks behind
+[17Sep2025 22:43:06.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: renny_lopez_2020 moved too quickly! -10.063752558502301,-1.1661092609382138,1.4280489557219198
+[17Sep2025 22:44:18.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Executed 281 command(s) from function 'fromthefog:admin/fake_herobrine/create']
+[17Sep2025 22:44:39.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Sep2025 22:44:39.257] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Sep2025 22:44:49.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Executed 2 command(s) from function 'fromthefog:admin/fake_herobrine/remove']
+[17Sep2025 22:45:57.592] [Worker-Main-37/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[17Sep2025 22:48:53.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> man cosa aca
+[17Sep2025 22:49:09.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> no lo puedo decir en voz alta
+[17Sep2025 22:49:33.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> haora como que me van a poner en la intedencia
+[17Sep2025 22:49:39.260] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Sep2025 22:49:39.273] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Sep2025 22:49:42.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> sep
+[17Sep2025 22:50:20.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> de vez de ir al colegio voy a intedencia chambear con mi ama
+[17Sep2025 22:50:39.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [Ant Farm]
+[17Sep2025 22:50:49.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> por mi ama le dijo a su jefe y el acepto
+[17Sep2025 22:51:36.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> como tal iria alla como si fuera ir al colegio
+[17Sep2025 22:53:36.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [Not Today, Thank You]
+[17Sep2025 22:54:39.250] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Sep2025 22:54:39.262] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Sep2025 22:55:49.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [We do a little trolling...]
+[17Sep2025 22:59:06.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alest moved too quickly! -5.0398084190183,1.7684762024129839,8.607817849335106
+[17Sep2025 22:59:39.258] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Sep2025 22:59:39.272] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
