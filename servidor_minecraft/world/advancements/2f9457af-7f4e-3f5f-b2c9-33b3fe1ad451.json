@@ -3239,6 +3239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-09-18 00:08:38 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_scythe": {
     "criteria": {
       "has_copper_ingot": "2025-09-17 23:22:41 +0000"
@@ -3800,6 +3806,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-09-17 23:01:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-09-18 00:08:38 +0000"
     },
     "done": true
   },

@@ -3947,9 +3947,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-09-17 23:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-09-18 00:01:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2025-09-17 23:59:49 +0000"
+    },
+    "done": true
+  },
+  "many_more_ores_and_crafts:unlock_mythril_recipes": {
+    "criteria": {
+      "get_mythril_ingot": "2025-09-18 00:05:48 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/stone_shovel_repairing": {
     "criteria": {
       "has_stone_shovel": "2025-09-17 23:42:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-09-18 00:01:12 +0000"
     },
     "done": true
   },
