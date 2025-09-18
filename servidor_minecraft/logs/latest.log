@@ -279,3 +279,87 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Sep2025 17:25:35.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [Halberdier]
 [18Sep2025 17:25:58.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 has made the advancement [Halberdier]
 [18Sep2025 17:27:35.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Teleported renny_lopez_2020 to Alest]
+[18Sep2025 17:32:05.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 was shot by Alest
+[18Sep2025 17:32:05.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest was shot by renny_lopez_2020
+[18Sep2025 17:32:17.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest was shot by renny_lopez_2020
+[18Sep2025 17:35:28.250] [Server thread/INFO] [tacz/GunPackFinder]: Start scanning for gun packs in /workspaces/respaldito-jeje/servidor_minecraft/tacz
+[18Sep2025 17:35:28.250] [Server thread/INFO] [tacz/GunPackFinder]: - tacz_default_gun, Main namespace: tacz
+[18Sep2025 17:35:28.250] [Server thread/INFO] [tacz/GunPackFinder]: Found 1 possible gunpack(s) and added them to resource set.
+[18Sep2025 17:35:36.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Enabling data pack [file/double_doors_1.1.zip (world)]]
+[18Sep2025 17:35:36.355] [Server thread/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
+[18Sep2025 17:35:36.355] [Server thread/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[18Sep2025 17:35:36.849] [Worker-Main-11/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[18Sep2025 17:35:36.906] [Worker-Main-11/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[18Sep2025 17:35:37.017] [Worker-Main-11/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[18Sep2025 17:35:37.095] [Server thread/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[18Sep2025 17:35:37.095] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
+[18Sep2025 17:35:37.098] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[18Sep2025 17:35:37.101] [Server thread/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[18Sep2025 17:35:37.101] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
+[18Sep2025 17:35:37.106] [Server thread/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[18Sep2025 17:35:37.106] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_blasting_bronze_weapons as it's serializer returned null
+[18Sep2025 17:35:37.107] [Server thread/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
+[18Sep2025 17:35:37.107] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_blasting_steel_weapons as it's serializer returned null
+[18Sep2025 17:35:37.109] [Server thread/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[18Sep2025 17:35:37.109] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
+[18Sep2025 17:35:37.110] [Server thread/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[18Sep2025 17:35:37.110] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
+[18Sep2025 17:35:37.114] [Server thread/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[18Sep2025 17:35:37.115] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
+[18Sep2025 17:35:37.115] [Server thread/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[18Sep2025 17:35:37.115] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
+[18Sep2025 17:35:37.118] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[18Sep2025 17:35:37.123] [Server thread/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
+[18Sep2025 17:35:37.123] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_smelting_steel_weapons as it's serializer returned null
+[18Sep2025 17:35:37.124] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[18Sep2025 17:35:37.129] [Server thread/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/copper" Skipping...
+[18Sep2025 17:35:37.129] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:copper_nugget_from_blasting_copper_weapons as it's serializer returned null
+[18Sep2025 17:35:37.130] [Server thread/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[18Sep2025 17:35:37.130] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
+[18Sep2025 17:35:37.132] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[18Sep2025 17:35:37.138] [Server thread/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[18Sep2025 17:35:37.139] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_smelting_bronze_weapons as it's serializer returned null
+[18Sep2025 17:35:37.140] [Server thread/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/copper" Skipping...
+[18Sep2025 17:35:37.140] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:copper_nugget_from_smelting_copper_weapons as it's serializer returned null
+[18Sep2025 17:35:37.163] [Server thread/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[18Sep2025 17:35:37.164] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
+[18Sep2025 17:35:37.169] [Server thread/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[18Sep2025 17:35:37.169] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
+[18Sep2025 17:35:37.175] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[18Sep2025 17:35:37.177] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[18Sep2025 17:35:37.178] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[18Sep2025 17:35:37.180] [Server thread/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[18Sep2025 17:35:37.180] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
+[18Sep2025 17:35:37.182] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[18Sep2025 17:35:37.186] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 23 recipes
+[18Sep2025 17:35:37.187] [Server thread/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.m_77984_(CommandFunction.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[18Sep2025 17:35:37.196] [Server thread/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
+[18Sep2025 17:35:37.224] [Server thread/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[18Sep2025 17:35:37.239] [Server thread/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
+[18Sep2025 17:35:37.243] [Server thread/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[18Sep2025 17:35:37.259] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3141 advancements
+[18Sep2025 17:35:37.280] [Server thread/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[18Sep2025 17:35:37.292] [Server thread/INFO] [top.theillusivec4.curios.Curios/]: Loaded 17 curio slots
+[18Sep2025 17:35:37.299] [Server thread/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio entities
+[18Sep2025 17:35:39.676] [Server thread/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 2.640433ms
+[18Sep2025 17:35:39.736] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3363ms or 67 ticks behind
+[18Sep2025 17:35:58.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to 1271.500000, 65.500000, 990.500000]
+[18Sep2025 17:36:37.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Executed 343 command(s) from function 'double_doors:find']
+[18Sep2025 17:36:52.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Executed 271 command(s) from function 'double_doors:click_door']
+[18Sep2025 17:37:30.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Executed 1 command(s) from function 'double_doors:load']
+[18Sep2025 17:38:37.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 has made the advancement [Full Titanium Armor]

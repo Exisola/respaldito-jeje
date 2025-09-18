@@ -1855,7 +1855,8 @@
       "minecraft:witch": "2025-09-17 22:40:07 +0000",
       "minecraft:cave_spider": "2025-09-18 16:57:41 +0000",
       "minecraft:silverfish": "2025-09-18 01:03:46 +0000",
-      "minecraft:zombie": "2025-09-17 04:18:05 +0000"
+      "minecraft:zombie": "2025-09-17 04:18:05 +0000",
+      "minecraft:drowned": "2025-09-18 17:33:43 +0000"
     },
     "done": false
   },
@@ -4932,45 +4933,33 @@
     },
     "done": true
   },
-  "many_more_ores_and_crafts:palladium_armor_achievement": {
+  "watching:main/survive/10_days": {
     "criteria": {
-      "palladium_armor_achievement_1": "2025-09-18 17:02:12 +0000"
+      "requirement": "2025-09-18 16:27:18 +0000"
     },
-    "done": false
+    "done": true
   },
-  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+  "watching:main/survive/3_days": {
     "criteria": {
-      "has_glass_pane": "2025-09-18 16:51:19 +0000"
+      "requirement": "2025-09-18 16:27:18 +0000"
+    },
+    "done": true
+  },
+  "watching:main/root": {
+    "criteria": {
+      "requirement": "2025-09-18 16:27:18 +0000"
+    },
+    "done": true
+  },
+  "many_more_ores_and_crafts:adamantite_sword_achievement": {
+    "criteria": {
+      "adamantite_sword_achievement_0": "2025-09-18 16:45:28 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-18 16:50:20 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/skyroot_loom": {
-    "criteria": {
-      "has_string": "2025-09-18 16:57:41 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:halberd": {
-    "criteria": {
-      "has_halberd": "2025-09-18 17:25:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-09-18 16:51:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-09-18 16:51:19 +0000"
     },
     "done": true
   },
@@ -4983,12 +4972,6 @@
   "ironchest:recipes/decorations/upgrades/gold_to_diamond_chest_upgrade": {
     "criteria": {
       "has_glass": "2025-09-18 16:50:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-09-18 16:51:19 +0000"
     },
     "done": true
   },
@@ -5010,27 +4993,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2025-09-18 16:57:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-09-18 16:51:19 +0000"
-    },
-    "done": true
-  },
   "ironchest:recipes/decorations/upgrades/diamond_to_obsidian_chest_upgrade": {
     "criteria": {
       "has_glass": "2025-09-18 16:50:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/candle": {
-    "criteria": {
-      "has_string": "2025-09-18 16:57:41 +0000"
     },
     "done": true
   },
@@ -5040,33 +5005,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-09-18 16:51:19 +0000"
-    },
-    "done": true
-  },
-  "watching:main/survive/10_days": {
-    "criteria": {
-      "requirement": "2025-09-18 16:27:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-18 16:50:20 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/redstone/skyroot_tripwire_hook": {
-    "criteria": {
-      "has_string": "2025-09-18 16:57:41 +0000"
-    },
-    "done": true
-  },
-  "many_more_ores_and_crafts:adamantite_sword_achievement": {
-    "criteria": {
-      "adamantite_sword_achievement_0": "2025-09-18 16:45:28 +0000"
     },
     "done": true
   },
@@ -5082,21 +5023,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-09-18 16:51:19 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/glass_bridge": {
     "criteria": {
       "has_planks": "2025-09-18 16:50:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-09-18 16:51:19 +0000"
     },
     "done": true
   },
@@ -5105,36 +5034,6 @@
       "has_glass": "2025-09-18 16:50:20 +0000"
     },
     "done": true
-  },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2025-09-18 16:58:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_leggings": "2025-09-18 17:03:43 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/stone_hoe_repairing": {
-    "criteria": {
-      "has_stone_hoe": "2025-09-18 17:12:54 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/ghostly_pickaxe": {
-    "criteria": {
-      "ghostly_pickaxe": "2025-09-18 16:57:02 +0000"
-    },
-    "done": true
-  },
-  "many_more_ores_and_crafts:orichalcum_armor_achievement": {
-    "criteria": {
-      "orichalcum_armor_achievement_3": "2025-09-18 17:02:05 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
@@ -5154,39 +5053,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2025-09-18 16:57:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2025-09-18 16:57:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-18 16:50:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-09-18 16:51:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-09-18 16:51:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-09-18 16:51:19 +0000"
     },
     "done": true
   },
@@ -5208,24 +5077,6 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/combat/handle_from_string": {
-    "criteria": {
-      "has_string": "2025-09-18 16:57:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-09-18 16:51:19 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/iron_leggings_repairing": {
-    "criteria": {
-      "has_iron_leggings": "2025-09-18 17:03:43 +0000"
-    },
-    "done": true
-  },
   "ironchest:recipes/decorations/upgrades/diamond_to_crystal_chest_upgrade": {
     "criteria": {
       "has_glass": "2025-09-18 16:50:20 +0000"
@@ -5235,18 +5086,6 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-09-18 16:50:20 +0000"
-    },
-    "done": true
-  },
-  "watching:main/survive/3_days": {
-    "criteria": {
-      "requirement": "2025-09-18 16:27:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-09-18 16:51:19 +0000"
     },
     "done": true
   },
@@ -5268,15 +5107,81 @@
     },
     "done": true
   },
-  "watching:main/root": {
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
-      "requirement": "2025-09-18 16:27:18 +0000"
+      "has_glass_pane": "2025-09-18 16:51:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
-      "has_string": "2025-09-18 16:57:41 +0000"
+      "has_glass_pane": "2025-09-18 16:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-09-18 16:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-09-18 16:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-09-18 16:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-09-18 16:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-09-18 16:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-09-18 16:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-09-18 16:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-09-18 16:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-09-18 16:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-09-18 16:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-09-18 16:51:19 +0000"
     },
     "done": true
   },
@@ -5298,15 +5203,111 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "alexsmobs:alexsmobs/ghostly_pickaxe": {
     "criteria": {
-      "wheat": "2025-09-18 17:13:35 +0000"
+      "ghostly_pickaxe": "2025-09-18 16:57:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_loom": {
+    "criteria": {
+      "has_string": "2025-09-18 16:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-09-18 16:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-09-18 16:57:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-09-18 16:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-09-18 16:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-09-18 16:57:41 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/handle_from_string": {
+    "criteria": {
+      "has_string": "2025-09-18 16:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-09-18 16:57:41 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-09-18 16:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-09-18 16:58:42 +0000"
+    },
+    "done": true
+  },
+  "many_more_ores_and_crafts:orichalcum_armor_achievement": {
+    "criteria": {
+      "orichalcum_armor_achievement_3": "2025-09-18 17:02:05 +0000"
+    },
+    "done": false
+  },
+  "many_more_ores_and_crafts:palladium_armor_achievement": {
+    "criteria": {
+      "palladium_armor_achievement_1": "2025-09-18 17:02:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-09-18 17:03:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2025-09-18 17:03:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_hoe_repairing": {
+    "criteria": {
+      "has_stone_hoe": "2025-09-18 17:12:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-09-18 17:13:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:halberd": {
+    "criteria": {
+      "has_halberd": "2025-09-18 17:25:35 +0000"
     },
     "done": true
   },
