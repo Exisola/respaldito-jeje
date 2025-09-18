@@ -1678,6 +1678,7 @@
       "minecraft:spider": "2025-09-17 03:09:36 +0000",
       "minecraft:creeper": "2025-09-17 04:41:00 +0000",
       "minecraft:witch": "2025-09-17 23:39:59 +0000",
+      "minecraft:cave_spider": "2025-09-18 16:52:01 +0000",
       "minecraft:silverfish": "2025-09-18 02:03:29 +0000",
       "minecraft:zombie": "2025-09-17 03:49:51 +0000",
       "minecraft:zombie_villager": "2025-09-18 01:17:49 +0000"
@@ -4351,6 +4352,138 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-09-18 02:29:41 +0000"
+    },
+    "done": true
+  },
+  "many_more_ores_and_crafts:unlock_platinum_furnace_recipes": {
+    "criteria": {
+      "get_platinum_ingot": "2025-09-18 16:31:02 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-09-18 16:44:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_shovel": "2025-09-18 16:50:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-09-18 16:50:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_shovel_repairing": {
+    "criteria": {
+      "has_golden_shovel": "2025-09-18 16:50:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-09-18 16:50:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_shovel": "2025-09-18 16:50:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-09-18 16:50:07 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/ghostly_pickaxe": {
+    "criteria": {
+      "ghostly_pickaxe": "2025-09-18 16:55:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:halberd": {
+    "criteria": {
+      "has_halberd": "2025-09-18 17:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-18 17:09:31 +0000"
+    },
+    "done": true
+  },
+  "many_more_ores_and_crafts:ingots_achievement": {
+    "criteria": {
+      "ingots_achievement_6": "2025-09-18 17:21:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-09-18 17:24:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2025-09-18 17:16:54 +0000"
+    },
+    "done": true
+  },
+  "many_more_ores_and_crafts:unlock_amethyst_recipes": {
+    "criteria": {
+      "get_amethyst_shard": "2025-09-18 17:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-18 17:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-18 17:09:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2025-09-18 17:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-09-18 17:16:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2025-09-18 17:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-18 17:09:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_boots_repairing": {
+    "criteria": {
+      "has_iron_boots": "2025-09-18 17:17:01 +0000"
     },
     "done": true
   },
