@@ -1,91 +1,213 @@
-[18Sep2025 00:11:22.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Creative Mode]
-[18Sep2025 00:11:33.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Survival Mode]
-[18Sep2025 00:11:55.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 was shot by Alest
-[18Sep2025 00:15:03.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest was shot by renny_lopez_2020
-[18Sep2025 00:15:17.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 was shot by Alest
-[18Sep2025 00:16:39.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest was shot by renny_lopez_2020
-[18Sep2025 00:25:31.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [Diamonds!]
-[18Sep2025 00:28:22.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Creative Mode]
-[18Sep2025 00:28:32.612] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1200, y=-21, z=879} BlockPos{x=1193, y=-20, z=895}
-[18Sep2025 00:29:27.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Survival Mode]
-[18Sep2025 00:30:13.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Teleported renny_lopez_2020 to 1284.500000, 40.500000, 1046.500000]
-[18Sep2025 00:30:32.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: renny_lopez_2020 lost connection: Disconnected
-[18Sep2025 00:30:32.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 left the game
-[18Sep2025 00:30:32.159] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[18Sep2025 00:30:46.119] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: renny_lopez_2020[/127.139.26.213:56779] logged in with entity id 41252 at (1284.5, 39.35489329934836, 1046.5)
-[18Sep2025 00:30:46.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 joined the game
-[18Sep2025 00:30:46.193] [Server thread/INFO] [Jade/]: Syncing config to renny_lopez_2020 (2f9457af-7f4e-3f5f-b2c9-33b3fe1ad451)
-[18Sep2025 00:31:16.211] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: renny_lopez_2020 lost connection: Timed out
-[18Sep2025 00:31:16.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 left the game
-[18Sep2025 00:31:35.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [Chest Slayer]
-[18Sep2025 00:31:37.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [Amateur Archaeologist]
-[18Sep2025 00:31:38.569] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: renny_lopez_2020[/127.139.26.213:35719] logged in with entity id 41523 at (1284.5, 39.35489329934836, 1046.5)
-[18Sep2025 00:31:38.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 joined the game
-[18Sep2025 00:31:38.634] [Server thread/INFO] [Jade/]: Syncing config to renny_lopez_2020 (2f9457af-7f4e-3f5f-b2c9-33b3fe1ad451)
-[18Sep2025 00:35:15.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest fell from a high place
-[18Sep2025 00:39:15.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to renny_lopez_2020]
-[18Sep2025 00:42:15.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Teleported renny_lopez_2020 to Alest]
-[18Sep2025 00:42:19.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to 1271.500000, 65.500000, 990.500000]
-[18Sep2025 00:42:27.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Teleported renny_lopez_2020 to Alest]
-[18Sep2025 00:43:00.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 was slain by Alest
-[18Sep2025 00:46:01.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> wa
-[18Sep2025 00:46:05.304] [Server thread/INFO] [twilightforest/]: Did not find a safe portal spot first try, trying again with longer range.
-[18Sep2025 00:46:05.338] [Server thread/INFO] [twilightforest/]: Did not find a safe portal spot second try, trying to move slightly towards the center between key biomes.
-[18Sep2025 00:46:05.363] [Server thread/INFO] [twilightforest/]: Did not find a safe portal spot third try, trying to move further towards the center between key biomes.
-[18Sep2025 00:46:05.385] [Server thread/WARN] [twilightforest/]: Still did not find a safe portal spot.
-[18Sep2025 00:46:05.562] [Worker-Main-18/INFO] [citadel/]: vanilla surface rule behavior unchanged
-[18Sep2025 00:46:09.728] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4433ms or 88 ticks behind
-[18Sep2025 00:46:13.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: renny_lopez_2020 was kicked for floating too long!
-[18Sep2025 00:46:13.750] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: renny_lopez_2020 lost connection: Flying is not enabled on this server
-[18Sep2025 00:46:13.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 left the game
-[18Sep2025 00:46:50.662] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@58b4214b[id=<null>,name=renny_lopez_2020,properties={},legacy=false] (/127.139.26.213:49179) lost connection: Disconnected
-[18Sep2025 00:47:09.267] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: renny_lopez_2020[/127.139.26.213:57247] logged in with entity id 72379 at (10197.5, 6.0, 7932.5)
-[18Sep2025 00:47:09.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 joined the game
-[18Sep2025 00:47:09.322] [Server thread/INFO] [Jade/]: Syncing config to renny_lopez_2020 (2f9457af-7f4e-3f5f-b2c9-33b3fe1ad451)
-[18Sep2025 00:49:12.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [The Silence of the Forest]
-[18Sep2025 00:51:52.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 has made the advancement [The Silence of the Forest]
-[18Sep2025 00:56:37.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 has reached the goal [Time To Even The Scales]
-[18Sep2025 00:56:37.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has reached the goal [Time To Even The Scales]
-[18Sep2025 01:01:39.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Applied effect Night Vision to 2 targets]
-[18Sep2025 01:01:44.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 was schooled by Death Tome
-[18Sep2025 01:01:58.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Teleported renny_lopez_2020 to Alest]
-[18Sep2025 01:02:22.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Applied effect Night Vision to 2 targets]
-[18Sep2025 01:03:55.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest was doomed to fall by Silverfish
-[18Sep2025 01:04:01.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to renny_lopez_2020]
-[18Sep2025 01:04:08.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Applied effect Night Vision to 2 targets]
-[18Sep2025 01:05:50.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 was slain by Zombie
-[18Sep2025 01:06:11.117] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: renny_lopez_2020 lost connection: Timed out
-[18Sep2025 01:06:11.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 left the game
-[18Sep2025 01:07:00.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest was shot by Skeleton
-[18Sep2025 01:07:05.814] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@11417e2d[id=<null>,name=renny_lopez_2020,properties={},legacy=false] (/127.139.26.213:57559) lost connection: Disconnected
-[18Sep2025 01:07:11.618] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: renny_lopez_2020[/127.139.26.213:55325] logged in with entity id 78221 at (1308.5, 55.0, 984.5)
-[18Sep2025 01:07:11.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 joined the game
-[18Sep2025 01:07:11.683] [Server thread/INFO] [Jade/]: Syncing config to renny_lopez_2020 (2f9457af-7f4e-3f5f-b2c9-33b3fe1ad451)
-[18Sep2025 01:07:18.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to renny_lopez_2020]
-[18Sep2025 01:08:24.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest was shot by renny_lopez_2020
-[18Sep2025 01:12:02.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [It's pink]
-[18Sep2025 01:14:25.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to 1280.500000, 41.500000, 1057.500000]
-[18Sep2025 01:18:02.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to renny_lopez_2020]
-[18Sep2025 01:18:36.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 was slain by Spider
-[18Sep2025 01:23:39.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set the weather to clear]
-[18Sep2025 01:24:07.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest was shot by Skeleton
-[18Sep2025 01:26:13.511] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alest lost connection: Disconnected
-[18Sep2025 01:26:13.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest left the game
-[18Sep2025 01:26:22.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 fell from a high place
-[18Sep2025 01:26:27.354] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: renny_lopez_2020 lost connection: Disconnected
-[18Sep2025 01:26:27.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 left the game
-[18Sep2025 01:26:40.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[18Sep2025 01:26:40.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[18Sep2025 01:26:40.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[18Sep2025 01:26:40.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[18Sep2025 01:26:40.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18Sep2025 01:26:42.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
-[18Sep2025 01:26:42.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
-[18Sep2025 01:26:42.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[18Sep2025 01:26:42.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[18Sep2025 01:26:42.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18Sep2025 01:26:42.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
-[18Sep2025 01:26:42.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
-[18Sep2025 01:26:42.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18Sep2025 01:26:42.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18Sep2025 01:26:42.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18Sep2025 01:42:49.196] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[18Sep2025 01:42:49.199] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[18Sep2025 01:42:49.791] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[18Sep2025 01:42:49.855] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/respaldito-jeje/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[18Sep2025 01:42:50.234] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/respaldito-jeje/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[18Sep2025 01:42:50.237] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/respaldito-jeje/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[18Sep2025 01:42:50.245] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/respaldito-jeje/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[18Sep2025 01:42:50.247] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/respaldito-jeje/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[18Sep2025 01:42:50.747] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[18Sep2025 01:42:50.749] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: cumulus_menus. Using Mod File: /workspaces/respaldito-jeje/servidor_minecraft/mods/cumulus_menus-1.20.1-1.0.0-neoforge.jar
+[18Sep2025 01:42:50.750] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: /workspaces/respaldito-jeje/servidor_minecraft/mods/curios-forge-5.14.1+1.20.1.jar
+[18Sep2025 01:42:50.750] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 17 dependencies adding them to mods collection
+[18Sep2025 01:42:53.553] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[18Sep2025 01:42:53.605] [main/ERROR] [mixin/]: Mixin config fabric-data-attachment-api-v1.mixins.json does not specify "minVersion" property
+[18Sep2025 01:42:53.610] [main/ERROR] [mixin/]: Mixin config fabric-data-attachment-api-v1.client.mixins.json does not specify "minVersion" property
+[18Sep2025 01:42:53.699] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[18Sep2025 01:42:53.980] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[18Sep2025 01:42:55.172] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/LevelRenderer for invalid dist DEDICATED_SERVER
+[18Sep2025 01:42:55.173] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/LevelRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/LevelRenderer for invalid dist DEDICATED_SERVER)
+[18Sep2025 01:42:55.173] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.LevelRenderer was not found accessories-common.mixins.json:LevelRendererAccessor
+[18Sep2025 01:42:55.500] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[18Sep2025 01:43:00.109] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on accessories-common.mixins.json:NbtCompoundMixin::handler$zfh000$adjustCheckForListVariants exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[18Sep2025 01:43:03.373] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[18Sep2025 01:43:03.378] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[18Sep2025 01:43:03.381] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[18Sep2025 01:43:03.388] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[18Sep2025 01:43:03.391] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[18Sep2025 01:43:03.397] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[18Sep2025 01:43:03.400] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[18Sep2025 01:43:03.406] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[18Sep2025 01:43:03.739] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[18Sep2025 01:43:03.739] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[18Sep2025 01:43:03.873] [modloading-worker-0/INFO] [Many More Ores and Crafts/]: Hello Forge world!
+[18Sep2025 01:43:03.882] [modloading-worker-0/INFO] [Many More Ores and Crafts/]: Hello from Common init on Forge! we are currently in a production environment!
+[18Sep2025 01:43:03.882] [modloading-worker-0/INFO] [Many More Ores and Crafts/]: The ID for diamonds is minecraft:diamond
+[18Sep2025 01:43:03.883] [modloading-worker-0/INFO] [Many More Ores and Crafts/]: Hello to Many More Ores and Crafts
+[18Sep2025 01:43:04.057] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[18Sep2025 01:43:04.091] [modloading-worker-0/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
+[18Sep2025 01:43:04.096] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
+[18Sep2025 01:43:04.154] [modloading-worker-0/INFO] [com.aetherteam.cumulus.Cumulus/]: Disabling Cumulus as it is on server.
+[18Sep2025 01:43:04.156] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[18Sep2025 01:43:04.156] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 12
+[18Sep2025 01:43:04.159] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 12 has been initalized!
+[18Sep2025 01:43:04.430] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[18Sep2025 01:43:04.863] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
+[18Sep2025 01:43:04.864] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
+[18Sep2025 01:43:07.721] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[18Sep2025 01:43:07.726] [main/INFO] [Spartan Weaponry/]: Updating config settings!
+[18Sep2025 01:43:07.880] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
+[18Sep2025 01:43:07.889] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
+[18Sep2025 01:43:07.898] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[18Sep2025 01:43:07.945] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[18Sep2025 01:43:08.223] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[18Sep2025 01:43:08.223] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[18Sep2025 01:43:08.223] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[18Sep2025 01:43:08.224] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[18Sep2025 01:43:08.224] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[18Sep2025 01:43:08.225] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[18Sep2025 01:43:08.225] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[18Sep2025 01:43:08.225] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
+[18Sep2025 01:43:08.226] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:throwable_using for minecraft:living_entity
+[18Sep2025 01:43:08.314] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[18Sep2025 01:43:08.315] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[18Sep2025 01:43:08.318] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[18Sep2025 01:43:08.318] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[18Sep2025 01:43:08.322] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Found status: UP_TO_DATE Current: 1.20.1-1.5.2-neoforge Target: null
+[18Sep2025 01:43:08.322] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paintings.json
+[18Sep2025 01:43:08.338] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Found status: UP_TO_DATE Current: 1.0.5 Target: null
+[18Sep2025 01:43:08.338] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/stairs.json
+[18Sep2025 01:43:08.357] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Found status: UP_TO_DATE Current: 1.0.1 Target: null
+[18Sep2025 01:43:08.360] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
+[18Sep2025 01:43:08.372] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.2 Target: null
+[18Sep2025 01:43:08.375] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[18Sep2025 01:43:08.398] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.aetherteam.aether.integration.jade.AetherJadePlugin
+[18Sep2025 01:43:08.408] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[18Sep2025 01:43:08.411] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
+[18Sep2025 01:43:08.411] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
+[18Sep2025 01:43:08.413] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[18Sep2025 01:43:08.429] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[18Sep2025 01:43:08.434] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[18Sep2025 01:43:08.521] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[18Sep2025 01:43:08.521] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[18Sep2025 01:43:08.719] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[18Sep2025 01:43:08.719] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+[18Sep2025 01:43:08.736] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: UP_TO_DATE Current: 3.1.0 Target: null
+[18Sep2025 01:43:08.736] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
+[18Sep2025 01:43:08.764] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Found status: OUTDATED Current: 1.20.1-1.0.0-neoforge Target: 1.20.1-1.0.1-neoforge
+[18Sep2025 01:43:08.764] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
+[18Sep2025 01:43:08.776] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
+[18Sep2025 01:43:08.776] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/lights.json
+[18Sep2025 01:43:08.790] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Found status: UP_TO_DATE Current: 1.1.2 Target: null
+[18Sep2025 01:43:12.168] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18Sep2025 01:43:14.907] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/respaldito-jeje/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23173!/assets/.mcassetsroot' uses unexpected schema
+[18Sep2025 01:43:14.908] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/respaldito-jeje/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23173!/data/.mcassetsroot' uses unexpected schema
+[18Sep2025 01:43:20.300] [main/INFO] [tacz/GunPackFinder]: Start scanning for gun packs in /workspaces/respaldito-jeje/servidor_minecraft/tacz
+[18Sep2025 01:43:20.302] [main/INFO] [tacz/GunPackFinder]: - tacz_default_gun, Main namespace: tacz
+[18Sep2025 01:43:20.302] [main/INFO] [tacz/GunPackFinder]: Found 1 possible gunpack(s) and added them to resource set.
+[18Sep2025 01:43:20.387] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack file/From-The-Fog-1.20-v1.9.2-Data-Resource-Pack.zip.zip
+[18Sep2025 01:43:20.387] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack file/From-The-Fog-Data-Pack-1.20.1.zip
+[18Sep2025 01:43:20.387] [main/INFO] [net.minecraft.server.MinecraftServer/]: Found new data pack file/Dungeons and Taverns 3.0.3.fix.zip, loading it automatically
+[18Sep2025 01:43:20.387] [main/INFO] [net.minecraft.server.MinecraftServer/]: Found new data pack file/Explorify v1.6.2 f10-48.zip, loading it automatically
+[18Sep2025 01:43:20.387] [main/INFO] [net.minecraft.server.MinecraftServer/]: Found new data pack file/Structory_1.20_v1.3.5.zip, loading it automatically
+[18Sep2025 01:43:22.123] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
+[18Sep2025 01:43:22.148] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[18Sep2025 01:43:23.158] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[18Sep2025 01:43:23.266] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[18Sep2025 01:43:23.608] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[18Sep2025 01:43:23.917] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[18Sep2025 01:43:23.918] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
+[18Sep2025 01:43:23.936] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[18Sep2025 01:43:23.943] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[18Sep2025 01:43:23.943] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
+[18Sep2025 01:43:23.959] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[18Sep2025 01:43:23.959] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_blasting_bronze_weapons as it's serializer returned null
+[18Sep2025 01:43:23.961] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
+[18Sep2025 01:43:23.961] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_blasting_steel_weapons as it's serializer returned null
+[18Sep2025 01:43:23.963] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[18Sep2025 01:43:23.963] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
+[18Sep2025 01:43:23.964] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[18Sep2025 01:43:23.965] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
+[18Sep2025 01:43:23.977] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[18Sep2025 01:43:23.978] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
+[18Sep2025 01:43:23.978] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[18Sep2025 01:43:23.978] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
+[18Sep2025 01:43:23.986] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[18Sep2025 01:43:23.999] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
+[18Sep2025 01:43:23.999] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_smelting_steel_weapons as it's serializer returned null
+[18Sep2025 01:43:24.000] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[18Sep2025 01:43:24.010] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/copper" Skipping...
+[18Sep2025 01:43:24.010] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:copper_nugget_from_blasting_copper_weapons as it's serializer returned null
+[18Sep2025 01:43:24.011] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[18Sep2025 01:43:24.011] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
+[18Sep2025 01:43:24.014] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[18Sep2025 01:43:24.024] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[18Sep2025 01:43:24.024] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_smelting_bronze_weapons as it's serializer returned null
+[18Sep2025 01:43:24.025] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/copper" Skipping...
+[18Sep2025 01:43:24.025] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:copper_nugget_from_smelting_copper_weapons as it's serializer returned null
+[18Sep2025 01:43:24.054] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[18Sep2025 01:43:24.054] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
+[18Sep2025 01:43:24.057] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[18Sep2025 01:43:24.057] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
+[18Sep2025 01:43:24.062] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[18Sep2025 01:43:24.067] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[18Sep2025 01:43:24.069] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[18Sep2025 01:43:24.074] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[18Sep2025 01:43:24.074] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
+[18Sep2025 01:43:24.080] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[18Sep2025 01:43:24.085] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 23 recipes
+[18Sep2025 01:43:24.085] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.m_77984_(CommandFunction.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[18Sep2025 01:43:24.133] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
+[18Sep2025 01:43:24.208] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[18Sep2025 01:43:24.231] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
+[18Sep2025 01:43:24.237] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[18Sep2025 01:43:24.282] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3140 advancements
+[18Sep2025 01:43:24.405] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[18Sep2025 01:43:24.429] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 17 curio slots
+[18Sep2025 01:43:24.441] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio entities
+[18Sep2025 01:43:26.920] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 6.751923ms
+[18Sep2025 01:43:27.094] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[18Sep2025 01:43:27.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[18Sep2025 01:43:27.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[18Sep2025 01:43:27.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[18Sep2025 01:43:27.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[18Sep2025 01:43:27.401] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[18Sep2025 01:43:27.505] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18Sep2025 01:43:27.505] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[18Sep2025 01:43:27.506] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18Sep2025 01:43:27.506] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[18Sep2025 01:43:27.747] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[18Sep2025 01:43:30.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[18Sep2025 01:43:33.436] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Sep2025 01:43:33.442] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Sep2025 01:43:33.446] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Sep2025 01:43:33.450] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Sep2025 01:43:33.450] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Sep2025 01:43:33.451] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Sep2025 01:43:33.468] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Sep2025 01:43:33.968] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
+[18Sep2025 01:43:34.468] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
+[18Sep2025 01:43:34.674] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4207 ms
+[18Sep2025 01:43:34.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.152s)! For help, type "help"
+[18Sep2025 01:43:34.736] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[18Sep2025 01:47:21.897] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@528d7f69[id=<null>,name=renny_lopez_2020,properties={},legacy=false] (/127.139.26.213:40773) lost connection: Disconnected
+[18Sep2025 01:47:38.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[18Sep2025 01:47:38.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Sep2025 01:47:38.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Sep2025 01:47:38.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Sep2025 01:47:39.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Sep2025 01:47:39.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[18Sep2025 01:47:39.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Sep2025 01:47:39.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Sep2025 01:47:39.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[18Sep2025 01:47:39.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Sep2025 01:47:39.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[18Sep2025 01:47:39.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Sep2025 01:47:39.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Sep2025 01:47:39.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[18Sep2025 01:47:39.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
