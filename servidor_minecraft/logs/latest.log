@@ -53,3 +53,14 @@
 [18Sep2025 01:03:55.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest was doomed to fall by Silverfish
 [18Sep2025 01:04:01.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to renny_lopez_2020]
 [18Sep2025 01:04:08.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Applied effect Night Vision to 2 targets]
+[18Sep2025 01:05:50.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 was slain by Zombie
+[18Sep2025 01:06:11.117] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: renny_lopez_2020 lost connection: Timed out
+[18Sep2025 01:06:11.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 left the game
+[18Sep2025 01:07:00.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest was shot by Skeleton
+[18Sep2025 01:07:05.814] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@11417e2d[id=<null>,name=renny_lopez_2020,properties={},legacy=false] (/127.139.26.213:57559) lost connection: Disconnected
+[18Sep2025 01:07:11.618] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: renny_lopez_2020[/127.139.26.213:55325] logged in with entity id 78221 at (1308.5, 55.0, 984.5)
+[18Sep2025 01:07:11.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 joined the game
+[18Sep2025 01:07:11.683] [Server thread/INFO] [Jade/]: Syncing config to renny_lopez_2020 (2f9457af-7f4e-3f5f-b2c9-33b3fe1ad451)
+[18Sep2025 01:07:18.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to renny_lopez_2020]
+[18Sep2025 01:08:24.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest was shot by renny_lopez_2020
+[18Sep2025 01:12:02.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [It's pink]
