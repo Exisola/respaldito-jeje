@@ -22,3 +22,9 @@
 [18Sep2025 00:31:38.569] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: renny_lopez_2020[/127.139.26.213:35719] logged in with entity id 41523 at (1284.5, 39.35489329934836, 1046.5)
 [18Sep2025 00:31:38.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 joined the game
 [18Sep2025 00:31:38.634] [Server thread/INFO] [Jade/]: Syncing config to renny_lopez_2020 (2f9457af-7f4e-3f5f-b2c9-33b3fe1ad451)
+[18Sep2025 00:35:15.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest fell from a high place
+[18Sep2025 00:39:15.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to renny_lopez_2020]
+[18Sep2025 00:42:15.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Teleported renny_lopez_2020 to Alest]
+[18Sep2025 00:42:19.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to 1271.500000, 65.500000, 990.500000]
+[18Sep2025 00:42:27.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Teleported renny_lopez_2020 to Alest]
+[18Sep2025 00:43:00.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 was slain by Alest

@@ -3863,3 +3863,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Sep2025 00:31:38.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 joined the game
 [18Sep2025 00:31:38.634] [Server thread/INFO] [Jade/]: Syncing config to renny_lopez_2020 (2f9457af-7f4e-3f5f-b2c9-33b3fe1ad451)
 [18Sep2025 00:31:40.012] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1758155499997
+[18Sep2025 00:34:39.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Sep2025 00:34:39.248] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Sep2025 00:35:15.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest fell from a high place
+[18Sep2025 00:35:21.605] [Server thread/DEBUG] [twilightforest/]: Player Alest (4c936e16-7e1c-33dd-93da-5f1579d39599) respawned and received items held in storage
+[18Sep2025 00:35:22.006] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1758155722003
+[18Sep2025 00:39:15.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to renny_lopez_2020]
+[18Sep2025 00:39:39.234] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Sep2025 00:39:39.247] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Sep2025 00:42:15.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Teleported renny_lopez_2020 to Alest]
+[18Sep2025 00:42:19.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to 1271.500000, 65.500000, 990.500000]
+[18Sep2025 00:42:27.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Teleported renny_lopez_2020 to Alest]
+[18Sep2025 00:43:00.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 was slain by Alest
+[18Sep2025 00:43:05.954] [Server thread/DEBUG] [twilightforest/]: Player renny_lopez_2020 (2f9457af-7f4e-3f5f-b2c9-33b3fe1ad451) respawned and received items held in storage
+[18Sep2025 00:43:06.208] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1758156186207
