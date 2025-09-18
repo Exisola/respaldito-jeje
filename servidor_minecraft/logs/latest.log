@@ -444,3 +444,31 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Sep2025 17:50:59.759] [Server thread/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 1.738111ms
 [18Sep2025 17:50:59.812] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3339ms or 66 ticks behind
 [18Sep2025 17:50:59.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: renny_lopez_2020 moved too quickly! -8.392347082791957,5.5,0.8297524686954603
+[18Sep2025 17:51:51.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Executed 3 command(s) from function 'gm4-1.4:enumerate']
+[18Sep2025 17:52:09.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Executed 24 command(s) from function 'gm4-1.4:resolve_load']
+[18Sep2025 18:08:28.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to renny_lopez_2020]
+[18Sep2025 18:10:52.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to 1271.500000, 65.500000, 990.500000]
+[18Sep2025 18:10:58.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> wwwwwwwwwww
+[18Sep2025 18:11:01.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Executed 14 command(s) from function 'fromthefog:admin/sightings/nightmare']
+[18Sep2025 18:12:05.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Teleported renny_lopez_2020 to Alest]
+[18Sep2025 18:14:19.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set the time to 13000]
+[18Sep2025 18:14:41.029] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alest lost connection: Disconnected
+[18Sep2025 18:14:41.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest left the game
+[18Sep2025 18:14:42.628] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: renny_lopez_2020 lost connection: Disconnected
+[18Sep2025 18:14:42.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 left the game
+[18Sep2025 18:14:55.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[18Sep2025 18:14:55.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Sep2025 18:14:55.575] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[18Sep2025 18:14:55.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Sep2025 18:14:55.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Sep2025 18:14:55.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Sep2025 18:14:56.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[18Sep2025 18:14:56.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[18Sep2025 18:14:56.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Sep2025 18:14:56.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Sep2025 18:14:56.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Sep2025 18:14:56.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[18Sep2025 18:14:56.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[18Sep2025 18:14:56.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Sep2025 18:14:56.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Sep2025 18:14:56.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
