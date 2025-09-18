@@ -4547,5 +4547,20 @@
     },
     "done": true
   },
+  "many_more_ores_and_crafts:titanium_armor_achievement": {
+    "criteria": {
+      "titanium_armor_achievement_3": "2025-09-18 17:38:30 +0000",
+      "titanium_armor_achievement_2": "2025-09-18 17:38:30 +0000",
+      "titanium_armor_achievement_1": "2025-09-18 17:38:35 +0000",
+      "titanium_armor_achievement_0": "2025-09-18 17:38:37 +0000"
+    },
+    "done": true
+  },
+  "many_more_ores_and_crafts:armors_achievement": {
+    "criteria": {
+      "armors_achievement_11": "2025-09-18 17:38:35 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
