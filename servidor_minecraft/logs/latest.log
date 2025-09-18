@@ -69,3 +69,23 @@
 [18Sep2025 01:18:36.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 was slain by Spider
 [18Sep2025 01:23:39.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set the weather to clear]
 [18Sep2025 01:24:07.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest was shot by Skeleton
+[18Sep2025 01:26:13.511] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alest lost connection: Disconnected
+[18Sep2025 01:26:13.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest left the game
+[18Sep2025 01:26:22.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 fell from a high place
+[18Sep2025 01:26:27.354] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: renny_lopez_2020 lost connection: Disconnected
+[18Sep2025 01:26:27.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 left the game
+[18Sep2025 01:26:40.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[18Sep2025 01:26:40.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Sep2025 01:26:40.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Sep2025 01:26:40.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Sep2025 01:26:40.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Sep2025 01:26:42.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[18Sep2025 01:26:42.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[18Sep2025 01:26:42.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Sep2025 01:26:42.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Sep2025 01:26:42.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Sep2025 01:26:42.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[18Sep2025 01:26:42.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[18Sep2025 01:26:42.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Sep2025 01:26:42.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Sep2025 01:26:42.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
