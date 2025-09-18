@@ -4034,6 +4034,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-18 00:54:25 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_tomahawk": {
     "criteria": {
       "has_diamond": "2025-09-18 00:25:31 +0000"
@@ -4160,6 +4166,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2025-09-18 00:56:37 +0000"
+    },
+    "done": false
+  },
   "twilightforest:recipes/decorations/wood/twilight_oak_hanging_sign": {
     "criteria": {
       "has_item": "2025-09-18 00:47:20 +0000"
@@ -4226,6 +4238,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-18 00:54:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-09-18 00:25:31 +0000"
@@ -4235,6 +4253,12 @@
   "spartanweaponry:recipes/diamond_greatsword": {
     "criteria": {
       "has_diamond": "2025-09-18 00:25:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-18 00:54:25 +0000"
     },
     "done": true
   },
@@ -4259,6 +4283,12 @@
   "twilightforest:recipes/building_blocks/wood/twilight_oak_stripped_wood": {
     "criteria": {
       "has_item": "2025-09-18 00:47:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "was_in_fight": "2025-09-18 00:56:37 +0000"
     },
     "done": true
   },
@@ -4322,6 +4352,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/naga_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-09-18 00:57:35 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/wood/twilight_oak_stairs": {
     "criteria": {
       "has_item": "2025-09-18 00:47:23 +0000"
@@ -4370,6 +4406,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-18 00:54:25 +0000"
+    },
+    "done": true
+  },
   "twilightforest:twilight_hunter": {
     "criteria": {
       "kobold": "2025-09-18 00:49:12 +0000"
@@ -4391,6 +4433,18 @@
   "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
     "criteria": {
       "has_item": "2025-09-18 00:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-18 00:54:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-18 00:54:25 +0000"
     },
     "done": true
   },
@@ -4427,6 +4481,12 @@
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-09-18 00:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-09-18 00:54:25 +0000"
     },
     "done": true
   },
@@ -4514,6 +4574,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-18 00:54:25 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/iron_shovel_repairing": {
     "criteria": {
       "has_iron_shovel": "2025-09-18 00:28:36 +0000"
@@ -4556,6 +4622,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/balustrade_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-09-18 00:54:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-09-18 00:25:03 +0000"
@@ -4565,6 +4637,12 @@
   "spartanweaponry:recipes/diamond_heavy_crossbow": {
     "criteria": {
       "has_diamond": "2025-09-18 00:25:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-18 00:54:25 +0000"
     },
     "done": true
   },
@@ -4586,6 +4664,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_spiral": {
+    "criteria": {
+      "has_item": "2025-09-18 00:54:39 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_rapier": {
     "criteria": {
       "has_diamond": "2025-09-18 00:25:31 +0000"
@@ -4601,6 +4685,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-09-18 00:25:03 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-09-18 00:54:25 +0000"
     },
     "done": true
   },
@@ -4643,6 +4733,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-09-18 00:25:31 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-09-18 00:54:25 +0000"
     },
     "done": true
   },
