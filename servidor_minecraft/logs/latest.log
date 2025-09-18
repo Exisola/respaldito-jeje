@@ -1,3 +1,24 @@
 [18Sep2025 00:11:22.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Creative Mode]
 [18Sep2025 00:11:33.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Survival Mode]
 [18Sep2025 00:11:55.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 was shot by Alest
+[18Sep2025 00:15:03.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest was shot by renny_lopez_2020
+[18Sep2025 00:15:17.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 was shot by Alest
+[18Sep2025 00:16:39.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest was shot by renny_lopez_2020
+[18Sep2025 00:25:31.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [Diamonds!]
+[18Sep2025 00:28:22.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Creative Mode]
+[18Sep2025 00:28:32.612] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1200, y=-21, z=879} BlockPos{x=1193, y=-20, z=895}
+[18Sep2025 00:29:27.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Survival Mode]
+[18Sep2025 00:30:13.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Teleported renny_lopez_2020 to 1284.500000, 40.500000, 1046.500000]
+[18Sep2025 00:30:32.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: renny_lopez_2020 lost connection: Disconnected
+[18Sep2025 00:30:32.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 left the game
+[18Sep2025 00:30:32.159] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Sep2025 00:30:46.119] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: renny_lopez_2020[/127.139.26.213:56779] logged in with entity id 41252 at (1284.5, 39.35489329934836, 1046.5)
+[18Sep2025 00:30:46.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 joined the game
+[18Sep2025 00:30:46.193] [Server thread/INFO] [Jade/]: Syncing config to renny_lopez_2020 (2f9457af-7f4e-3f5f-b2c9-33b3fe1ad451)
+[18Sep2025 00:31:16.211] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: renny_lopez_2020 lost connection: Timed out
+[18Sep2025 00:31:16.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 left the game
+[18Sep2025 00:31:35.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [Chest Slayer]
+[18Sep2025 00:31:37.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [Amateur Archaeologist]
+[18Sep2025 00:31:38.569] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: renny_lopez_2020[/127.139.26.213:35719] logged in with entity id 41523 at (1284.5, 39.35489329934836, 1046.5)
+[18Sep2025 00:31:38.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 joined the game
+[18Sep2025 00:31:38.634] [Server thread/INFO] [Jade/]: Syncing config to renny_lopez_2020 (2f9457af-7f4e-3f5f-b2c9-33b3fe1ad451)
