@@ -1027,6 +1027,7 @@
       "ores_achievement_3": "2025-09-17 03:25:39 +0000",
       "ores_achievement_11": "2025-09-17 04:15:30 +0000",
       "ores_achievement_5": "2025-09-18 00:26:35 +0000",
+      "ores_achievement_0": "2025-09-18 01:19:10 +0000",
       "ores_achievement_1": "2025-09-18 00:20:03 +0000",
       "ores_achievement_6": "2025-09-18 00:22:16 +0000",
       "ores_achievement_7": "2025-09-17 22:30:54 +0000",
@@ -3236,6 +3237,7 @@
   },
   "many_more_ores_and_crafts:swords_achievement": {
     "criteria": {
+      "swords_achievement_6": "2025-09-18 01:12:02 +0000",
       "swords_achievement_7": "2025-09-17 22:28:20 +0000",
       "swords_achievement_12": "2025-09-17 22:28:01 +0000"
     },
@@ -4335,6 +4337,12 @@
     },
     "done": true
   },
+  "many_more_ores_and_crafts:unlock_adamantite_furnace_recipes": {
+    "criteria": {
+      "get_adamantite_ingot": "2025-09-18 01:19:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-09-18 00:25:03 +0000"
@@ -4656,6 +4664,12 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-09-18 00:54:25 +0000"
+    },
+    "done": true
+  },
+  "many_more_ores_and_crafts:orichalcum_sword_achievement": {
+    "criteria": {
+      "orichalcum_sword_achievement_0": "2025-09-18 01:12:02 +0000"
     },
     "done": true
   },

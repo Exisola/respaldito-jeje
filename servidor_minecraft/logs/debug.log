@@ -4373,3 +4373,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Sep2025 01:09:43.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Sep2025 01:10:50.601] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=10195, y=5, z=7932}
 [18Sep2025 01:12:02.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [It's pink]
+[18Sep2025 01:14:25.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to 1280.500000, 41.500000, 1057.500000]
+[18Sep2025 01:14:43.638] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Sep2025 01:14:43.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Sep2025 01:18:02.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to renny_lopez_2020]
+[18Sep2025 01:18:36.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 was slain by Spider
+[18Sep2025 01:18:38.261] [Server thread/DEBUG] [twilightforest/]: Player renny_lopez_2020 (2f9457af-7f4e-3f5f-b2c9-33b3fe1ad451) respawned and received items held in storage
+[18Sep2025 01:18:38.449] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1758158318448
+[18Sep2025 01:19:43.645] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Sep2025 01:19:43.660] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Sep2025 01:23:39.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set the weather to clear]
+[18Sep2025 01:24:07.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest was shot by Skeleton
+[18Sep2025 01:24:24.424] [Server thread/DEBUG] [twilightforest/]: Player Alest (4c936e16-7e1c-33dd-93da-5f1579d39599) respawned and received items held in storage
+[18Sep2025 01:24:24.726] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1758158664726
