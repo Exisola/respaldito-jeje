@@ -255,3 +255,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Sep2025 04:52:28.842] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/3387, l='ServerLevel[world]', x=1294.06, y=-256.00, z=986.52] died, message: 'Unemployed was killed'
 [19Sep2025 05:05:35.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Teleported renny_lopez_2020 to 1284.500000, 40.500000, 1046.500000]
 [19Sep2025 05:07:25.780] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/6897, l='ServerLevel[world]', x=1294.06, y=-256.00, z=986.52] died, message: 'Unemployed was killed'
+[19Sep2025 05:22:31.439] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: renny_lopez_2020 lost connection: Disconnected
+[19Sep2025 05:22:31.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 left the game
+[19Sep2025 05:23:13.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[19Sep2025 05:23:13.277] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[19Sep2025 05:23:13.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19Sep2025 05:23:13.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19Sep2025 05:23:13.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19Sep2025 05:23:13.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19Sep2025 05:23:15.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[19Sep2025 05:23:15.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19Sep2025 05:23:15.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[19Sep2025 05:23:15.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19Sep2025 05:23:15.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19Sep2025 05:23:15.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[19Sep2025 05:23:15.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19Sep2025 05:23:15.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[19Sep2025 05:23:15.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19Sep2025 05:23:15.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
