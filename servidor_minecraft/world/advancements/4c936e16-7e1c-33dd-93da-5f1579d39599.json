@@ -3224,8 +3224,10 @@
   },
   "many_more_ores_and_crafts:ingots_achievement": {
     "criteria": {
+      "ingots_achievement_1": "2025-09-20 03:16:18 +0000",
       "ingots_achievement_0": "2025-09-18 01:24:50 +0000",
       "ingots_achievement_12": "2025-09-17 04:59:37 +0000",
+      "ingots_achievement_11": "2025-09-20 03:10:47 +0000",
       "ingots_achievement_6": "2025-09-18 17:01:48 +0000",
       "ingots_achievement_4": "2025-09-18 00:36:04 +0000",
       "ingots_achievement_9": "2025-09-17 04:54:52 +0000",
@@ -5339,6 +5341,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-09-20 02:46:16 +0000"
+    },
+    "done": true
+  },
+  "many_more_ores_and_crafts:unlock_titanium_recipes": {
+    "criteria": {
+      "get_titanium_ingot": "2025-09-20 03:10:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-09-20 02:40:23 +0000"
@@ -5411,6 +5425,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-09-20 02:46:16 +0000"
+    },
+    "done": true
+  },
   "many_more_ores_and_crafts:unlock_mythril_furnace_recipes": {
     "criteria": {
       "get_mythril_ingot": "2025-09-20 02:33:24 +0000"
@@ -5474,6 +5494,12 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-09-20 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-09-20 02:46:16 +0000"
     },
     "done": true
   },

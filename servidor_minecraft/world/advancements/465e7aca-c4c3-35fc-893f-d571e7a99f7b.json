@@ -1528,6 +1528,7 @@
       "minecraft:skeleton": "2025-09-18 16:43:55 +0000",
       "minecraft:spider": "2025-09-18 16:24:52 +0000",
       "minecraft:creeper": "2025-09-17 05:14:54 +0000",
+      "minecraft:cave_spider": "2025-09-20 03:19:04 +0000",
       "minecraft:zombie": "2025-09-18 16:39:06 +0000",
       "minecraft:drowned": "2025-09-17 05:06:07 +0000"
     },
@@ -2805,27 +2806,294 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/andesite_bridge_stair": {
+  "watching:main/root": {
     "criteria": {
-      "has_planks": "2025-09-18 16:57:00 +0000"
+      "requirement": "2025-09-18 16:23:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_helmet": {
+  "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
-      "has_leather": "2025-09-18 16:52:19 +0000"
+      "has_log": "2025-09-18 16:24:34 +0000"
     },
     "done": true
   },
-  "mcwstairs:recipes/andesite": {
+  "mcwstairs:recipes/cherry": {
     "criteria": {
-      "has_planks": "2025-09-18 16:57:00 +0000"
+      "has_planks": "2025-09-18 16:24:34 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/cestus": {
+  "mcwdoors:recipes/cherry": {
     "criteria": {
-      "has_leather": "2025-09-18 16:52:19 +0000"
+      "has_wood": "2025-09-18 16:24:34 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cherry_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-09-18 16:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-09-18 16:24:34 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-09-18 16:24:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-09-18 16:33:06 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-09-18 16:33:06 +0000"
+    },
+    "done": true
+  },
+  "watching:main/survive/3_days": {
+    "criteria": {
+      "requirement": "2025-09-18 16:35:00 +0000"
+    },
+    "done": true
+  },
+  "many_more_ores_and_crafts:unlock_lead_furnace_recipes": {
+    "criteria": {
+      "get_lead_ingot": "2025-09-18 16:40:25 +0000"
+    },
+    "done": true
+  },
+  "many_more_ores_and_crafts:ores_achievement": {
+    "criteria": {
+      "ores_achievement_3": "2025-09-18 16:40:25 +0000",
+      "ores_achievement_6": "2025-09-20 03:15:54 +0000",
+      "ores_achievement_7": "2025-09-18 16:47:08 +0000",
+      "ores_achievement_8": "2025-09-18 16:49:05 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-09-18 16:41:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-18 16:41:46 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/diorite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-09-18 16:41:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-18 16:41:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-09-18 16:41:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-18 16:41:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-09-18 16:41:46 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/diorite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-09-18 16:41:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-09-18 16:41:46 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/diorite_bridge": {
+    "criteria": {
+      "has_planks": "2025-09-18 16:41:46 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/diorite": {
+    "criteria": {
+      "has_planks": "2025-09-18 16:41:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-18 16:41:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-18 16:41:46 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_diorite_bridge": {
+    "criteria": {
+      "has_planks": "2025-09-18 16:41:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-18 16:41:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-09-18 16:41:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-09-18 16:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-09-18 16:43:55 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/granite_bridge": {
+    "criteria": {
+      "has_planks": "2025-09-18 16:45:07 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/granite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-09-18 16:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-09-18 16:45:07 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/granite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-09-18 16:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-09-18 16:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-09-18 16:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-09-18 16:45:07 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_granite_bridge": {
+    "criteria": {
+      "has_planks": "2025-09-18 16:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-09-18 16:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-09-18 16:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-09-18 16:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-09-18 16:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-09-18 16:45:07 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/granite": {
+    "criteria": {
+      "has_planks": "2025-09-18 16:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-09-18 16:45:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_pickaxe_repairing": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-09-18 16:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-09-18 16:46:58 +0000"
+    },
+    "done": true
+  },
+  "many_more_ores_and_crafts:unlock_platinum_furnace_recipes": {
+    "criteria": {
+      "get_platinum_ingot": "2025-09-18 16:47:08 +0000"
     },
     "done": true
   },
@@ -2835,9 +3103,171 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/granite_bridge": {
+  "spartanweaponry:recipes/platinum_battle_hammer": {
     "criteria": {
-      "has_planks": "2025-09-18 16:45:07 +0000"
+      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_warhammer": {
+    "criteria": {
+      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_flanged_mace": {
+    "criteria": {
+      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_longsword": {
+    "criteria": {
+      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_quarterstaff": {
+    "criteria": {
+      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_glaive": {
+    "criteria": {
+      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/platinum_tower_shield": {
+    "criteria": {
+      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_scythe": {
+    "criteria": {
+      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_heavy_crossbow": {
+    "criteria": {
+      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_greatsword": {
+    "criteria": {
+      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/platinum_basic_shield": {
+    "criteria": {
+      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_lance": {
+    "criteria": {
+      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_rapier": {
+    "criteria": {
+      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_dagger": {
+    "criteria": {
+      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_saber": {
+    "criteria": {
+      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_tomahawk": {
+    "criteria": {
+      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_parrying_dagger": {
+    "criteria": {
+      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_longbow": {
+    "criteria": {
+      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_pike": {
+    "criteria": {
+      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_spear": {
+    "criteria": {
+      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_javelin": {
+    "criteria": {
+      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
+    },
+    "done": true
+  },
+  "many_more_ores_and_crafts:unlock_platinum_recipes": {
+    "criteria": {
+      "get_platinum_ingot": "2025-09-18 16:48:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_halberd": {
+    "criteria": {
+      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_boomerang": {
+    "criteria": {
+      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_katana": {
+    "criteria": {
+      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_throwing_knife": {
+    "criteria": {
+      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
+    },
+    "done": true
+  },
+  "many_more_ores_and_crafts:ingots_achievement": {
+    "criteria": {
+      "ingots_achievement_8": "2025-09-18 16:48:19 +0000"
+    },
+    "done": false
+  },
+  "many_more_ores_and_crafts:unlock_silver_furnace_recipes": {
+    "criteria": {
+      "get_silver_ingot": "2025-09-18 16:49:05 +0000"
     },
     "done": true
   },
@@ -2865,18 +3295,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite": {
-    "criteria": {
-      "has_diorite": "2025-09-18 16:41:46 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/granite_bridge_stair": {
-    "criteria": {
-      "has_planks": "2025-09-18 16:45:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-09-18 16:52:12 +0000"
@@ -2889,27 +3307,9 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/platinum_battle_hammer": {
-    "criteria": {
-      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-09-18 16:52:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_stairs": {
-    "criteria": {
-      "has_andesite": "2025-09-18 16:57:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-09-18 16:52:16 +0000"
     },
     "done": true
   },
@@ -2925,27 +3325,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-09-18 16:45:07 +0000"
-    },
-    "done": true
-  },
   "spartanshields:recipes/diamond_basic_shield": {
     "criteria": {
       "has_diamond": "2025-09-18 16:52:12 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/balustrade_andesite_bridge": {
-    "criteria": {
-      "has_planks": "2025-09-18 16:57:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2025-09-18 16:52:19 +0000"
     },
     "done": true
   },
@@ -2961,57 +3343,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-09-18 17:00:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-09-18 16:52:12 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/granite_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-09-18 16:45:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-09-18 16:45:07 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/aether_saddle": {
-    "criteria": {
-      "has_leather": "2025-09-18 16:52:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_planks": {
-    "criteria": {
-      "has_log": "2025-09-18 16:24:34 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/platinum_warhammer": {
-    "criteria": {
-      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-09-18 16:45:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2025-09-18 16:52:19 +0000"
     },
     "done": true
   },
@@ -3027,123 +3361,15 @@
     },
     "done": true
   },
-  "mcwstairs:recipes/cherry": {
-    "criteria": {
-      "has_planks": "2025-09-18 16:24:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_slab": {
-    "criteria": {
-      "has_granite": "2025-09-18 16:45:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-09-18 16:41:46 +0000"
-    },
-    "done": true
-  },
-  "many_more_ores_and_crafts:ingots_achievement": {
-    "criteria": {
-      "ingots_achievement_8": "2025-09-18 16:48:19 +0000"
-    },
-    "done": false
-  },
-  "spartanweaponry:recipes/platinum_flanged_mace": {
-    "criteria": {
-      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/diorite_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-09-18 16:41:46 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/diamond_flanged_mace": {
     "criteria": {
       "has_diamond": "2025-09-18 16:52:12 +0000"
     },
     "done": true
   },
-  "mcwbridges:recipes/balustrade_granite_bridge": {
-    "criteria": {
-      "has_planks": "2025-09-18 16:45:07 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/diamond_pike": {
     "criteria": {
       "has_diamond": "2025-09-18 16:52:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-09-18 16:52:16 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/platinum_longsword": {
-    "criteria": {
-      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/backpack": {
-    "criteria": {
-      "has_leather": "2025-09-18 16:52:19 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/platinum_quarterstaff": {
-    "criteria": {
-      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_stairs": {
-    "criteria": {
-      "has_granite": "2025-09-18 16:45:07 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/platinum_glaive": {
-    "criteria": {
-      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-09-18 16:41:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2025-09-18 16:52:16 +0000"
-    },
-    "done": true
-  },
-  "spartanshields:recipes/platinum_tower_shield": {
-    "criteria": {
-      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/platinum_scythe": {
-    "criteria": {
-      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-09-18 16:45:07 +0000"
     },
     "done": true
   },
@@ -3159,36 +3385,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/granite_wall": {
-    "criteria": {
-      "has_granite": "2025-09-18 16:45:07 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/andesite_bridge": {
-    "criteria": {
-      "has_planks": "2025-09-18 16:57:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-09-18 16:45:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-09-18 16:57:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2025-09-18 16:52:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-09-18 16:52:12 +0000"
@@ -3198,30 +3394,6 @@
   "spartanweaponry:recipes/diamond_greatsword": {
     "criteria": {
       "has_diamond": "2025-09-18 16:52:12 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/platinum_heavy_crossbow": {
-    "criteria": {
-      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/platinum_greatsword": {
-    "criteria": {
-      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite": {
-    "criteria": {
-      "has_stone": "2025-09-18 16:41:46 +0000"
-    },
-    "done": true
-  },
-  "many_more_ores_and_crafts:unlock_platinum_furnace_recipes": {
-    "criteria": {
-      "get_platinum_ingot": "2025-09-18 16:47:08 +0000"
     },
     "done": true
   },
@@ -3240,24 +3412,6 @@
   "aether:recipes/combat/diamond_gloves": {
     "criteria": {
       "has_diamond": "2025-09-18 16:52:12 +0000"
-    },
-    "done": true
-  },
-  "spartanshields:recipes/platinum_basic_shield": {
-    "criteria": {
-      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/platinum_lance": {
-    "criteria": {
-      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2025-09-18 16:52:19 +0000"
     },
     "done": true
   },
@@ -3285,27 +3439,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-09-18 16:57:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-09-18 16:41:46 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/diamond_dagger": {
     "criteria": {
       "has_diamond": "2025-09-18 16:52:12 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/leather_gloves": {
-    "criteria": {
-      "has_leather": "2025-09-18 16:52:19 +0000"
     },
     "done": true
   },
@@ -3315,33 +3451,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-09-18 16:45:07 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/diamond_glaive": {
     "criteria": {
       "has_diamond": "2025-09-18 16:52:12 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/iron_pickaxe_repairing": {
-    "criteria": {
-      "has_iron_pickaxe": "2025-09-18 16:46:58 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/leather_longbow": {
-    "criteria": {
-      "has_leather": "2025-09-18 16:52:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2025-09-18 16:52:19 +0000"
     },
     "done": true
   },
@@ -3351,51 +3463,15 @@
     },
     "done": true
   },
-  "mcwdoors:recipes/cherry": {
-    "criteria": {
-      "has_wood": "2025-09-18 16:24:34 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/diamond_spear": {
     "criteria": {
       "has_diamond": "2025-09-18 16:52:12 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/platinum_rapier": {
-    "criteria": {
-      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-09-18 16:46:58 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/cherry_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-09-18 16:24:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_slab": {
-    "criteria": {
-      "has_diorite": "2025-09-18 16:41:46 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/decorations/skyroot_jukebox": {
     "criteria": {
       "has_diamond": "2025-09-18 16:52:12 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/platinum_dagger": {
-    "criteria": {
-      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
     },
     "done": true
   },
@@ -3411,39 +3487,9 @@
     },
     "done": true
   },
-  "many_more_ores_and_crafts:unlock_lead_furnace_recipes": {
-    "criteria": {
-      "get_lead_ingot": "2025-09-18 16:40:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-09-18 16:57:00 +0000"
-    },
-    "done": true
-  },
-  "mcwstairs:recipes/granite": {
-    "criteria": {
-      "has_planks": "2025-09-18 16:45:07 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/diorite_bridge_stair": {
-    "criteria": {
-      "has_planks": "2025-09-18 16:41:46 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/diamond_boomerang": {
     "criteria": {
       "has_diamond": "2025-09-18 16:52:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-09-18 16:57:00 +0000"
     },
     "done": true
   },
@@ -3453,57 +3499,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2025-09-18 16:43:55 +0000"
-    },
-    "done": true
-  },
   "spartanshields:recipes/diamond_tower_shield": {
     "criteria": {
       "has_diamond": "2025-09-18 16:52:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall": {
-    "criteria": {
-      "has_diorite": "2025-09-18 16:41:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_wood": {
-    "criteria": {
-      "has_log": "2025-09-18 16:24:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-09-18 16:57:00 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/platinum_saber": {
-    "criteria": {
-      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/cherry": {
-    "criteria": {
-      "has_wood": "2025-09-18 16:24:34 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/platinum_tomahawk": {
-    "criteria": {
-      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/leather_heavy_crossbow": {
-    "criteria": {
-      "has_leather": "2025-09-18 16:52:19 +0000"
     },
     "done": true
   },
@@ -3513,119 +3511,9 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/platinum_parrying_dagger": {
-    "criteria": {
-      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
-    },
-    "done": true
-  },
-  "many_more_ores_and_crafts:ores_achievement": {
-    "criteria": {
-      "ores_achievement_3": "2025-09-18 16:40:25 +0000",
-      "ores_achievement_7": "2025-09-18 16:47:08 +0000",
-      "ores_achievement_8": "2025-09-18 16:49:05 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-09-18 16:57:00 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/diorite_bridge": {
-    "criteria": {
-      "has_planks": "2025-09-18 16:41:46 +0000"
-    },
-    "done": true
-  },
-  "mcwstairs:recipes/diorite": {
-    "criteria": {
-      "has_planks": "2025-09-18 16:41:46 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/diamond_heavy_crossbow": {
     "criteria": {
       "has_diamond": "2025-09-18 16:52:12 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/platinum_longbow": {
-    "criteria": {
-      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/platinum_pike": {
-    "criteria": {
-      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/quiver_compartment": {
-    "criteria": {
-      "has_leather": "2025-09-18 16:52:19 +0000"
-    },
-    "done": true
-  },
-  "watching:main/survive/3_days": {
-    "criteria": {
-      "requirement": "2025-09-18 16:35:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-09-18 16:41:46 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/platinum_spear": {
-    "criteria": {
-      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
-    "criteria": {
-      "has_leather": "2025-09-18 16:52:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite": {
-    "criteria": {
-      "has_andesite": "2025-09-18 16:57:00 +0000"
-    },
-    "done": true
-  },
-  "many_more_ores_and_crafts:unlock_silver_furnace_recipes": {
-    "criteria": {
-      "get_silver_ingot": "2025-09-18 16:49:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite": {
-    "criteria": {
-      "has_granite": "2025-09-18 16:45:07 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
-    "criteria": {
-      "has_backpack": "2025-09-18 16:33:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dripstone_block": {
-    "criteria": {
-      "has_pointed_dripstone": "2025-09-18 16:42:11 +0000"
-    },
-    "done": true
-  },
-  "watching:main/root": {
-    "criteria": {
-      "requirement": "2025-09-18 16:23:13 +0000"
     },
     "done": true
   },
@@ -3635,27 +3523,189 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+  "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
-      "has_diorite": "2025-09-18 16:41:46 +0000"
+      "has_diamond": "2025-09-18 16:52:12 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/platinum_javelin": {
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
-      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
+      "has_raw_gold": "2025-09-18 16:52:16 +0000"
     },
     "done": true
   },
-  "many_more_ores_and_crafts:unlock_platinum_recipes": {
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
-      "get_platinum_ingot": "2025-09-18 16:48:03 +0000"
+      "has_raw_gold": "2025-09-18 16:52:16 +0000"
     },
     "done": true
   },
-  "mcwbridges:recipes/balustrade_diorite_bridge": {
+  "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
-      "has_planks": "2025-09-18 16:41:46 +0000"
+      "has_raw_gold": "2025-09-18 16:52:16 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_shovel_repairing": {
+    "criteria": {
+      "has_diamond_shovel": "2025-09-18 16:52:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-09-18 16:52:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/cestus": {
+    "criteria": {
+      "has_leather": "2025-09-18 16:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-09-18 16:52:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/aether_saddle": {
+    "criteria": {
+      "has_leather": "2025-09-18 16:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-09-18 16:52:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-09-18 16:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-09-18 16:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-09-18 16:52:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2025-09-18 16:52:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/leather_longbow": {
+    "criteria": {
+      "has_leather": "2025-09-18 16:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-09-18 16:52:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/leather_heavy_crossbow": {
+    "criteria": {
+      "has_leather": "2025-09-18 16:52:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/quiver_compartment": {
+    "criteria": {
+      "has_leather": "2025-09-18 16:52:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-09-18 16:52:19 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/andesite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-09-18 16:57:00 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/andesite": {
+    "criteria": {
+      "has_planks": "2025-09-18 16:57:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-09-18 16:57:00 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_andesite_bridge": {
+    "criteria": {
+      "has_planks": "2025-09-18 16:57:00 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/andesite_bridge": {
+    "criteria": {
+      "has_planks": "2025-09-18 16:57:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-09-18 16:57:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-09-18 16:57:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-09-18 16:57:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-09-18 16:57:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-09-18 16:57:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-09-18 16:57:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-09-18 16:57:00 +0000"
     },
     "done": true
   },
@@ -3671,63 +3721,214 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-09-18 16:41:46 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/platinum_halberd": {
-    "criteria": {
-      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_axe": {
-    "criteria": {
-      "has_diamond": "2025-09-18 16:52:12 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/platinum_boomerang": {
-    "criteria": {
-      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/diamond_shovel_repairing": {
-    "criteria": {
-      "has_diamond_shovel": "2025-09-18 16:52:17 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/platinum_katana": {
-    "criteria": {
-      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_stairs": {
-    "criteria": {
-      "has_diorite": "2025-09-18 16:41:46 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/andesite_bridge_pier": {
     "criteria": {
       "has_planks": "2025-09-18 16:57:00 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/platinum_throwing_knife": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "has_platinum_ingot": "2025-09-18 16:48:03 +0000"
+      "slept_in_bed": "2025-09-18 17:00:18 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+  "aether:recipes/decorations/skyroot_loom": {
     "criteria": {
-      "has_backpack": "2025-09-18 16:33:06 +0000"
+      "has_string": "2025-09-20 02:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-09-20 03:12:57 +0000"
+    },
+    "done": true
+  },
+  "many_more_ores_and_crafts:platinum_armor_achievement": {
+    "criteria": {
+      "platinum_armor_achievement_2": "2025-09-20 02:55:09 +0000",
+      "platinum_armor_achievement_1": "2025-09-20 02:55:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-20 03:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-09-20 02:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-09-20 02:58:50 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-09-20 03:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-09-20 03:12:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-20 03:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-20 03:00:27 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-09-20 03:00:27 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-09-20 02:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-20 03:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-09-20 03:12:16 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/lapis_lazuli_basic_shield": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-09-20 03:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-09-20 03:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-09-20 02:58:50 +0000"
+    },
+    "done": true
+  },
+  "many_more_ores_and_crafts:unlock_palladium_furnace_recipes": {
+    "criteria": {
+      "get_palladium_ingot": "2025-09-20 03:15:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-09-20 02:58:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/small_arrow_quiver": {
+    "criteria": {
+      "has_arrow": "2025-09-20 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/handle_from_string": {
+    "criteria": {
+      "has_string": "2025-09-20 02:58:50 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-09-20 03:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-09-20 03:12:16 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-09-20 03:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-09-20 03:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-20 03:00:27 +0000"
+    },
+    "done": true
+  },
+  "many_more_ores_and_crafts:armors_achievement": {
+    "criteria": {
+      "armors_achievement_8": "2025-09-20 02:55:07 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-09-20 03:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-09-20 02:58:50 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-09-20 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-20 03:00:27 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-09-20 03:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-09-20 02:58:50 +0000"
     },
     "done": true
   },
