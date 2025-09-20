@@ -266,3 +266,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Sep2025 03:27:07.900] [Server thread/INFO] [Jade/]: Syncing config to renny_lopez_2020 (2f9457af-7f4e-3f5f-b2c9-33b3fe1ad451)
 [20Sep2025 03:27:54.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPKRich24 was slain by Cave Spider
 [20Sep2025 03:28:07.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TPKRich24: Teleported TPKRich24 to 924.500000, 15.500000, 1259.500000]
+[20Sep2025 03:31:22.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Spectator Mode]
+[20Sep2025 03:31:41.881] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/37181, l='ServerLevel[world]', x=1294.05, y=-256.00, z=987.35] died, message: 'Unemployed was killed'
+[20Sep2025 03:31:49.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Survival Mode]
+[20Sep2025 03:32:11.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [He's Watching...]
+[20Sep2025 03:34:28.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Spectator Mode]
+[20Sep2025 03:34:55.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Survival Mode]
+[20Sep2025 03:41:06.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Applied effect Night Vision to 3 targets]

@@ -5359,6 +5359,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2025-09-20 03:38:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-09-20 02:26:32 +0000"
@@ -5431,6 +5437,12 @@
     },
     "done": true
   },
+  "watching:main/didnt_notice_herobrine": {
+    "criteria": {
+      "requirement": "2025-09-20 03:32:11 +0000"
+    },
+    "done": true
+  },
   "many_more_ores_and_crafts:unlock_mythril_furnace_recipes": {
     "criteria": {
       "get_mythril_ingot": "2025-09-20 02:33:24 +0000"
@@ -5446,6 +5458,18 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-09-20 02:40:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2025-09-20 03:38:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-09-20 03:38:27 +0000"
     },
     "done": true
   },
