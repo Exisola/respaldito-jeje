@@ -3767,10 +3767,12 @@
   },
   "many_more_ores_and_crafts:platinum_armor_achievement": {
     "criteria": {
+      "platinum_armor_achievement_3": "2025-09-20 03:59:57 +0000",
+      "platinum_armor_achievement_0": "2025-09-20 03:59:59 +0000",
       "platinum_armor_achievement_2": "2025-09-20 02:55:09 +0000",
       "platinum_armor_achievement_1": "2025-09-20 02:55:07 +0000"
     },
-    "done": false
+    "done": true
   },
   "aether:recipes/redstone/skyroot_piston": {
     "criteria": {
@@ -3859,6 +3861,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-09-20 03:46:42 +0000"
+    },
+    "done": true
+  },
+  "many_more_ores_and_crafts:unlock_orichalcum_recipes": {
+    "criteria": {
+      "get_orichalcum_ingot": "2025-09-20 03:59:39 +0000"
     },
     "done": true
   },

@@ -308,3 +308,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Sep2025 03:50:34.704] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1111, y=-2, z=1497}
 [20Sep2025 03:50:55.073] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2324, y=-41, z=669}
 [20Sep2025 03:50:55.074] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2325, y=-41, z=669}
+[20Sep2025 03:53:39.767] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2293, y=1, z=392}
+[20Sep2025 03:53:39.768] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2293, y=1, z=393}
+[20Sep2025 03:53:39.843] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2315, y=-6, z=388}
+[20Sep2025 03:53:39.844] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2315, y=-6, z=389}
+[20Sep2025 03:53:40.916] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2423, y=-8, z=550}
+[20Sep2025 03:53:49.526] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2432, y=-8, z=547}
+[20Sep2025 03:54:07.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TPKRich24: Teleported TPKRich24 to 1271.500000, 64.500000, 989.500000]
+[20Sep2025 03:54:26.415] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2133, y=-23, z=365}
+[20Sep2025 03:54:26.415] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2132, y=-23, z=365}
+[20Sep2025 03:54:35.369] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2063, y=25, z=322}
+[20Sep2025 03:56:30.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to 1271.500000, 65.500000, 990.500000]
+[20Sep2025 03:59:59.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPKRich24 has made the advancement [Full Platinum Armor]
