@@ -3324,3 +3324,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Sep2025 02:05:52.912] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [20Sep2025 02:06:14.185] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=10195, y=5, z=7932}
 [20Sep2025 02:06:34.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Applied effect Night Vision to 2 targets]
+[20Sep2025 02:10:52.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Sep2025 02:10:52.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Sep2025 02:15:52.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Sep2025 02:15:52.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
