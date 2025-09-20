@@ -3749,9 +3749,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-20 04:33:24 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_loom": {
     "criteria": {
       "has_string": "2025-09-20 02:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-20 04:33:24 +0000"
     },
     "done": true
   },
@@ -3803,6 +3815,12 @@
   "aether:recipes/redstone/skyroot_note_block": {
     "criteria": {
       "has_redstone": "2025-09-20 03:46:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-20 04:33:24 +0000"
     },
     "done": true
   },
@@ -3884,6 +3902,12 @@
     },
     "done": true
   },
+  "watching:main/survive/10_days": {
+    "criteria": {
+      "requirement": "2025-09-20 04:44:34 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_mossy_cobblestone_bridge": {
     "criteria": {
       "has_planks": "2025-09-20 03:00:27 +0000"
@@ -3962,6 +3986,12 @@
     },
     "done": false
   },
+  "mcwbridges:recipes/deepslate_tile_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-09-20 04:33:24 +0000"
+    },
+    "done": true
+  },
   "mcwstairs:recipes/deepslate": {
     "criteria": {
       "has_planks": "2025-09-20 03:34:34 +0000"
@@ -4001,6 +4031,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-09-20 02:58:50 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/deepslate_tile_bridge": {
+    "criteria": {
+      "has_planks": "2025-09-20 04:33:24 +0000"
     },
     "done": true
   },
@@ -4082,6 +4118,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-20 04:33:24 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/mossy_cobblestone_bridge": {
     "criteria": {
       "has_planks": "2025-09-20 03:00:27 +0000"
@@ -4097,6 +4139,12 @@
   "mcwbridges:recipes/mossy_stone_brick_bridge": {
     "criteria": {
       "has_planks": "2025-09-20 03:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-20 04:33:24 +0000"
     },
     "done": true
   },
@@ -4124,9 +4172,21 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/balustrade_deepslate_tiles_bridge": {
+    "criteria": {
+      "has_planks": "2025-09-20 04:33:24 +0000"
+    },
+    "done": true
+  },
   "many_more_ores_and_crafts:unlock_adamantite_recipes": {
     "criteria": {
       "get_adamantite_ingot": "2025-09-20 04:02:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-20 04:33:24 +0000"
     },
     "done": true
   },
@@ -4181,6 +4241,12 @@
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-09-20 03:23:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-20 04:33:24 +0000"
     },
     "done": true
   },
