@@ -635,6 +635,7 @@
       "cooked_mutton": "2025-09-17 03:53:25 +0000",
       "cooked_beef": "2025-09-17 22:52:49 +0000",
       "bread": "2025-09-17 03:15:09 +0000",
+      "rotten_flesh": "2025-09-20 03:48:44 +0000",
       "cooked_chicken": "2025-09-20 02:33:59 +0000"
     },
     "done": false
@@ -5377,6 +5378,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_hoe": "2025-09-20 03:49:48 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_deepslate_bricks_bridge": {
     "criteria": {
       "has_planks": "2025-09-20 02:40:23 +0000"
@@ -5458,6 +5465,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-09-20 02:40:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_hoe": "2025-09-20 03:49:48 +0000"
     },
     "done": true
   },
@@ -5554,6 +5567,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-09-20 02:40:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_hoe_repairing": {
+    "criteria": {
+      "has_golden_hoe": "2025-09-20 03:49:48 +0000"
     },
     "done": true
   },

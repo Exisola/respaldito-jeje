@@ -273,3 +273,38 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Sep2025 03:34:28.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Spectator Mode]
 [20Sep2025 03:34:55.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Survival Mode]
 [20Sep2025 03:41:06.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Applied effect Night Vision to 3 targets]
+[20Sep2025 03:42:37.965] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1669, y=-12, z=965}
+[20Sep2025 03:42:49.301] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1695, y=-10, z=880}
+[20Sep2025 03:42:55.074] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1720, y=16, z=960}
+[20Sep2025 03:42:55.313] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1668, y=2, z=723}
+[20Sep2025 03:42:55.314] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1679, y=2, z=721}
+[20Sep2025 03:42:55.314] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1678, y=2, z=721}
+[20Sep2025 03:43:19.255] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1694, y=-18, z=641}
+[20Sep2025 03:43:57.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to 1280.500000, 41.500000, 1057.500000]
+[20Sep2025 03:44:58.284] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1913, y=-24, z=871}
+[20Sep2025 03:45:04.018] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1926, y=29, z=724}
+[20Sep2025 03:45:06.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest fell from a high place
+[20Sep2025 03:45:13.250] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1785, y=18, z=698}
+[20Sep2025 03:45:19.020] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1789, y=-28, z=662}
+[20Sep2025 03:45:19.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to 1280.500000, 41.500000, 1057.500000]
+[20Sep2025 03:45:26.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Applied effect Night Vision to 3 targets]
+[20Sep2025 03:45:31.170] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1726, y=-9, z=608}
+[20Sep2025 03:46:56.171] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=2007, y=-1, z=783}
+[20Sep2025 03:46:56.172] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=2008, y=-1, z=783}
+[20Sep2025 03:46:56.172] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=2009, y=-1, z=783}
+[20Sep2025 03:47:06.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 has made the advancement [Chompy]
+[20Sep2025 03:47:10.492] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1722, y=-25, z=503}
+[20Sep2025 03:47:10.492] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1722, y=-25, z=501}
+[20Sep2025 03:47:36.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to renny_lopez_2020]
+[20Sep2025 03:48:40.051] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: renny_lopez_2020 lost connection: Timed out
+[20Sep2025 03:48:40.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 left the game
+[20Sep2025 03:49:24.304] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2257, y=22, z=771}
+[20Sep2025 03:49:30.861] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: renny_lopez_2020[/127.229.6.125:41537] logged in with entity id 51601 at (1994.2841114549435, 67.0, 755.4681915409619)
+[20Sep2025 03:49:30.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 joined the game
+[20Sep2025 03:49:30.925] [Server thread/INFO] [Jade/]: Syncing config to renny_lopez_2020 (2f9457af-7f4e-3f5f-b2c9-33b3fe1ad451)
+[20Sep2025 03:49:46.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: renny_lopez_2020 moved too quickly! -4.474161802766048,1.7967356006687112,-8.838801841954137
+[20Sep2025 03:50:01.004] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: renny_lopez_2020 lost connection: Timed out
+[20Sep2025 03:50:01.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 left the game
+[20Sep2025 03:50:34.704] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1111, y=-2, z=1497}
+[20Sep2025 03:50:55.073] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2324, y=-41, z=669}
+[20Sep2025 03:50:55.074] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2325, y=-41, z=669}
