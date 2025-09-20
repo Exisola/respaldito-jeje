@@ -1,409 +1,84 @@
-[20Sep2025 01:50:04.907] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[20Sep2025 01:50:04.913] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
-[20Sep2025 01:50:05.926] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[20Sep2025 01:50:05.982] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/respaldito-jeje/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[20Sep2025 01:50:06.311] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/respaldito-jeje/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[20Sep2025 01:50:06.314] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/respaldito-jeje/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[20Sep2025 01:50:06.315] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/respaldito-jeje/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[20Sep2025 01:50:06.316] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/respaldito-jeje/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[20Sep2025 01:50:06.826] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[20Sep2025 01:50:06.828] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: cumulus_menus. Using Mod File: /workspaces/respaldito-jeje/servidor_minecraft/mods/cumulus_menus-1.20.1-1.0.0-neoforge.jar
-[20Sep2025 01:50:06.828] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: /workspaces/respaldito-jeje/servidor_minecraft/mods/curios-forge-5.14.1+1.20.1.jar
-[20Sep2025 01:50:06.829] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 21 dependencies adding them to mods collection
-[20Sep2025 01:50:09.668] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[20Sep2025 01:50:09.706] [main/ERROR] [mixin/]: Mixin config fabric-data-attachment-api-v1.mixins.json does not specify "minVersion" property
-[20Sep2025 01:50:09.708] [main/ERROR] [mixin/]: Mixin config fabric-data-attachment-api-v1.client.mixins.json does not specify "minVersion" property
-[20Sep2025 01:50:09.771] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[20Sep2025 01:50:10.316] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/vanilla.xml
-[20Sep2025 01:50:10.319] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/gregtechmodernce.xml
-[20Sep2025 01:50:10.323] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/simpletomb.xml
-[20Sep2025 01:50:10.326] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/assortedstorage.xml
-[20Sep2025 01:50:10.329] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/refinedstorage.xml
-[20Sep2025 01:50:10.331] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ic2.xml
-[20Sep2025 01:50:10.335] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/computercraft.xml
-[20Sep2025 01:50:10.341] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/sophisticated_core.xml
-[20Sep2025 01:50:10.342] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/mekanism.xml
-[20Sep2025 01:50:10.344] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/puzzlesapi.xml
-[20Sep2025 01:50:10.346] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ironfurnaces.xml
-[20Sep2025 01:50:10.392] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
-[20Sep2025 01:50:11.596] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/LevelRenderer for invalid dist DEDICATED_SERVER
-[20Sep2025 01:50:11.597] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/LevelRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/LevelRenderer for invalid dist DEDICATED_SERVER)
-[20Sep2025 01:50:11.597] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.LevelRenderer was not found accessories-common.mixins.json:LevelRendererAccessor
-[20Sep2025 01:50:11.958] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[20Sep2025 01:50:16.404] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on accessories-common.mixins.json:NbtCompoundMixin::handler$zga000$adjustCheckForListVariants exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[20Sep2025 01:50:19.649] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[20Sep2025 01:50:19.651] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[20Sep2025 01:50:19.657] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[20Sep2025 01:50:19.665] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[20Sep2025 01:50:19.670] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[20Sep2025 01:50:19.677] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[20Sep2025 01:50:19.681] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[20Sep2025 01:50:19.682] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[20Sep2025 01:50:19.963] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[20Sep2025 01:50:19.963] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[20Sep2025 01:50:20.086] [modloading-worker-0/INFO] [Many More Ores and Crafts/]: Hello Forge world!
-[20Sep2025 01:50:20.092] [modloading-worker-0/INFO] [Many More Ores and Crafts/]: Hello from Common init on Forge! we are currently in a production environment!
-[20Sep2025 01:50:20.092] [modloading-worker-0/INFO] [Many More Ores and Crafts/]: The ID for diamonds is minecraft:diamond
-[20Sep2025 01:50:20.092] [modloading-worker-0/INFO] [Many More Ores and Crafts/]: Hello to Many More Ores and Crafts
-[20Sep2025 01:50:20.189] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
-[20Sep2025 01:50:20.285] [modloading-worker-0/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
-[20Sep2025 01:50:20.295] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
-[20Sep2025 01:50:20.327] [modloading-worker-0/INFO] [com.aetherteam.cumulus.Cumulus/]: Disabling Cumulus as it is on server.
-[20Sep2025 01:50:20.332] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
-[20Sep2025 01:50:20.332] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 12
-[20Sep2025 01:50:20.340] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 12 has been initalized!
-[20Sep2025 01:50:20.641] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[20Sep2025 01:50:21.300] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
-[20Sep2025 01:50:21.300] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
-[20Sep2025 01:50:24.105] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[20Sep2025 01:50:24.111] [main/INFO] [Spartan Weaponry/]: Updating config settings!
-[20Sep2025 01:50:24.118] [Thread-2/INFO] [Spartan Weaponry/]: Updating config settings!
-[20Sep2025 01:50:24.248] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
-[20Sep2025 01:50:24.255] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
-[20Sep2025 01:50:24.274] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
-[20Sep2025 01:50:24.287] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
-[20Sep2025 01:50:24.396] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
-[20Sep2025 01:50:24.396] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
-[20Sep2025 01:50:24.396] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
-[20Sep2025 01:50:24.397] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
-[20Sep2025 01:50:24.397] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
-[20Sep2025 01:50:24.397] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
-[20Sep2025 01:50:24.397] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
-[20Sep2025 01:50:24.397] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
-[20Sep2025 01:50:24.397] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:throwable_using for minecraft:living_entity
-[20Sep2025 01:50:24.464] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[20Sep2025 01:50:24.466] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[20Sep2025 01:50:24.473] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[20Sep2025 01:50:24.474] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[20Sep2025 01:50:24.514] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Found status: UP_TO_DATE Current: 1.20.1-1.5.2-neoforge Target: null
-[20Sep2025 01:50:24.515] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paintings.json
-[20Sep2025 01:50:24.527] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Found status: UP_TO_DATE Current: 1.0.5 Target: null
-[20Sep2025 01:50:24.527] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/stairs.json
-[20Sep2025 01:50:24.538] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.aetherteam.aether.integration.jade.AetherJadePlugin
-[20Sep2025 01:50:24.539] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Found status: UP_TO_DATE Current: 1.0.1 Target: null
-[20Sep2025 01:50:24.540] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
-[20Sep2025 01:50:24.546] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[20Sep2025 01:50:24.547] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
-[20Sep2025 01:50:24.548] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
-[20Sep2025 01:50:24.549] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[20Sep2025 01:50:24.551] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.2 Target: null
-[20Sep2025 01:50:24.551] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[20Sep2025 01:50:24.565] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[20Sep2025 01:50:24.569] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[20Sep2025 01:50:24.677] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[20Sep2025 01:50:24.677] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[20Sep2025 01:50:24.850] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
-[20Sep2025 01:50:24.850] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
-[20Sep2025 01:50:24.871] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: UP_TO_DATE Current: 3.1.0 Target: null
-[20Sep2025 01:50:24.871] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
-[20Sep2025 01:50:24.900] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Found status: OUTDATED Current: 1.20.1-1.0.0-neoforge Target: 1.20.1-1.0.1-neoforge
-[20Sep2025 01:50:24.901] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
-[20Sep2025 01:50:24.913] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
-[20Sep2025 01:50:24.913] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/lights.json
-[20Sep2025 01:50:24.926] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Found status: UP_TO_DATE Current: 1.1.2 Target: null
-[20Sep2025 01:50:28.345] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20Sep2025 01:50:31.093] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/respaldito-jeje/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23175!/assets/.mcassetsroot' uses unexpected schema
-[20Sep2025 01:50:31.094] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/respaldito-jeje/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23175!/data/.mcassetsroot' uses unexpected schema
-[20Sep2025 01:50:38.428] [main/INFO] [tacz/GunPackFinder]: Start scanning for gun packs in /workspaces/respaldito-jeje/servidor_minecraft/tacz
-[20Sep2025 01:50:38.430] [main/INFO] [tacz/GunPackFinder]: - tacz_default_gun, Main namespace: tacz
-[20Sep2025 01:50:38.430] [main/INFO] [tacz/GunPackFinder]: Found 1 possible gunpack(s) and added them to resource set.
-[20Sep2025 01:50:40.155] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
-[20Sep2025 01:50:40.176] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[20Sep2025 01:50:40.967] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
-[20Sep2025 01:50:41.138] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
-[20Sep2025 01:50:41.332] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
-[20Sep2025 01:50:41.486] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
-[20Sep2025 01:50:41.487] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
-[20Sep2025 01:50:41.501] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[20Sep2025 01:50:41.506] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
-[20Sep2025 01:50:41.506] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
-[20Sep2025 01:50:41.517] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
-[20Sep2025 01:50:41.517] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_blasting_bronze_weapons as it's serializer returned null
-[20Sep2025 01:50:41.519] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
-[20Sep2025 01:50:41.519] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_blasting_steel_weapons as it's serializer returned null
-[20Sep2025 01:50:41.520] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
-[20Sep2025 01:50:41.520] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
-[20Sep2025 01:50:41.521] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
-[20Sep2025 01:50:41.521] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
-[20Sep2025 01:50:41.530] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
-[20Sep2025 01:50:41.530] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
-[20Sep2025 01:50:41.530] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
-[20Sep2025 01:50:41.530] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
-[20Sep2025 01:50:41.535] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[20Sep2025 01:50:41.542] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
-[20Sep2025 01:50:41.542] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_smelting_steel_weapons as it's serializer returned null
-[20Sep2025 01:50:41.543] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[20Sep2025 01:50:41.550] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/copper" Skipping...
-[20Sep2025 01:50:41.550] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:copper_nugget_from_blasting_copper_weapons as it's serializer returned null
-[20Sep2025 01:50:41.551] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
-[20Sep2025 01:50:41.551] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
-[20Sep2025 01:50:41.553] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[20Sep2025 01:50:41.563] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
-[20Sep2025 01:50:41.563] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_smelting_bronze_weapons as it's serializer returned null
-[20Sep2025 01:50:41.564] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/copper" Skipping...
-[20Sep2025 01:50:41.564] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:copper_nugget_from_smelting_copper_weapons as it's serializer returned null
-[20Sep2025 01:50:41.588] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
-[20Sep2025 01:50:41.588] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
-[20Sep2025 01:50:41.591] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
-[20Sep2025 01:50:41.591] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
-[20Sep2025 01:50:41.596] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[20Sep2025 01:50:41.600] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[20Sep2025 01:50:41.602] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[20Sep2025 01:50:41.605] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
-[20Sep2025 01:50:41.605] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
-[20Sep2025 01:50:41.609] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[20Sep2025 01:50:41.613] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 23 recipes
-[20Sep2025 01:50:41.614] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at net.minecraft.commands.CommandFunction.m_77984_(CommandFunction.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 6 more
-[20Sep2025 01:50:41.647] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
-[20Sep2025 01:50:41.692] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
-[20Sep2025 01:50:41.712] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
-[20Sep2025 01:50:41.719] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
-[20Sep2025 01:50:41.756] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3140 advancements
-[20Sep2025 01:50:41.871] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[20Sep2025 01:50:41.893] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 17 curio slots
-[20Sep2025 01:50:41.904] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio entities
-[20Sep2025 01:50:44.384] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 7.495901ms
-[20Sep2025 01:50:44.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[20Sep2025 01:50:44.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[20Sep2025 01:50:44.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[20Sep2025 01:50:44.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[20Sep2025 01:50:44.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[20Sep2025 01:50:44.707] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[20Sep2025 01:50:44.805] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20Sep2025 01:50:44.806] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[20Sep2025 01:50:44.807] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20Sep2025 01:50:44.808] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[20Sep2025 01:50:44.985] [Server thread/INFO] [portb.configlib.ConfigLib/]: Reading stacksize ruleset
-[20Sep2025 01:50:44.991] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Starting config file watcher
-[20Sep2025 01:50:45.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[20Sep2025 01:50:48.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[20Sep2025 01:50:50.102] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Sep2025 01:50:50.121] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Sep2025 01:50:50.127] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Sep2025 01:50:50.139] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Sep2025 01:50:50.152] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Sep2025 01:50:51.142] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Sep2025 01:50:51.142] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Sep2025 01:50:51.537] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Sep2025 01:50:52.026] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[20Sep2025 01:50:52.515] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
-[20Sep2025 01:50:52.827] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4812 ms
-[20Sep2025 01:50:52.827] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.005s)! For help, type "help"
-[20Sep2025 01:50:52.871] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[20Sep2025 01:52:41.728] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: renny_lopez_2020[/127.229.6.125:50871] logged in with entity id 103 at (1308.021218066223, 55.0, 984.8164019404426)
-[20Sep2025 01:52:41.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 joined the game
-[20Sep2025 01:52:41.947] [Server thread/INFO] [Jade/]: Syncing config to renny_lopez_2020 (2f9457af-7f4e-3f5f-b2c9-33b3fe1ad451)
-[20Sep2025 01:53:35.936] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/895, l='ServerLevel[world]', x=1294.05, y=-256.00, z=987.35] died, message: 'Unemployed was killed'
-[20Sep2025 01:57:23.879] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1636, l='ServerLevel[world]', x=1294.05, y=-256.00, z=987.35] died, message: 'Unemployed was killed'
-[20Sep2025 01:58:11.320] [Worker-Main-11/INFO] [citadel/]: vanilla surface rule behavior unchanged
-[20Sep2025 01:58:20.880] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1872, l='ServerLevel[world]', x=1294.05, y=-256.00, z=987.35] died, message: 'Unemployed was killed'
-[20Sep2025 02:03:46.655] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'gm4-1.4:intro_song/welcome_toast' in progress file ./world/advancements/4c936e16-7e1c-33dd-93da-5f1579d39599.json - it doesn't exist anymore?
-[20Sep2025 02:03:46.655] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'gm4-1.4:intro_song/play_song' in progress file ./world/advancements/4c936e16-7e1c-33dd-93da-5f1579d39599.json - it doesn't exist anymore?
-[20Sep2025 02:03:46.667] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alest[/127.187.155.65:34545] logged in with entity id 3411 at (1265.5, 65.0, 990.5)
-[20Sep2025 02:03:46.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest joined the game
-[20Sep2025 02:03:46.812] [Server thread/INFO] [Jade/]: Syncing config to Alest (4c936e16-7e1c-33dd-93da-5f1579d39599)
-[20Sep2025 02:06:34.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Applied effect Night Vision to 2 targets]
-[20Sep2025 02:23:39.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Executed 281 command(s) from function 'fromthefog:admin/fake_herobrine/create']
-[20Sep2025 02:24:01.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Executed 2 command(s) from function 'fromthefog:admin/fake_herobrine/remove']
-[20Sep2025 02:24:05.589] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
-[20Sep2025 02:25:11.156] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=977, y=37, z=774}
-[20Sep2025 02:27:31.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to renny_lopez_2020]
-[20Sep2025 02:30:11.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest was slain by Murmur
-[20Sep2025 02:30:25.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to renny_lopez_2020]
-[20Sep2025 02:30:28.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Applied effect Night Vision to 2 targets]
-[20Sep2025 02:36:26.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to renny_lopez_2020]
-[20Sep2025 02:38:48.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Teleported renny_lopez_2020 to 1284.500000, 40.500000, 1046.500000]
-[20Sep2025 02:38:56.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to 1271.500000, 65.500000, 990.500000]
-[20Sep2025 02:47:48.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Creative Mode]
-[20Sep2025 02:50:57.660] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TPKRich24[/127.214.80.190:59621] logged in with entity id 17664 at (1268.810559309033, 64.0, 988.8865604337553)
-[20Sep2025 02:50:57.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPKRich24 joined the game
-[20Sep2025 02:50:57.765] [Server thread/INFO] [Jade/]: Syncing config to TPKRich24 (465e7aca-c4c3-35fc-893f-d571e7a99f7b)
-[20Sep2025 02:51:35.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> discol
-[20Sep2025 02:51:39.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TPKRich24> voy
-[20Sep2025 02:53:06.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Survival Mode]
-[20Sep2025 02:54:10.879] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/18319, l='ServerLevel[world]', x=1294.05, y=-256.00, z=987.35] died, message: 'Unemployed was killed'
-[20Sep2025 02:57:33.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 has made the advancement [Full Adamantite Armor]
-[20Sep2025 02:58:33.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 has made the advancement [Adamantite Sword]
-[20Sep2025 03:00:13.497] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1610, y=15, z=933}
-[20Sep2025 03:01:44.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TPKRich24: Teleported TPKRich24 to 1271.500000, 64.500000, 989.500000]
-[20Sep2025 03:02:59.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TPKRich24: Teleported TPKRich24 to 1362.500000, 38.500000, 1015.500000]
-[20Sep2025 03:06:09.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to TPKRich24]
-[20Sep2025 03:06:22.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to 1271.500000, 65.500000, 990.500000]
-[20Sep2025 03:08:10.549] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1095, y=-17, z=1269}
-[20Sep2025 03:10:50.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TPKRich24: Teleported TPKRich24 to 786.500000, 38.500000, 1217.500000]
-[20Sep2025 03:10:58.652] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=646, y=-7, z=1278}
-[20Sep2025 03:10:59.364] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=654, y=-49, z=1215}
-[20Sep2025 03:11:19.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to renny_lopez_2020]
-[20Sep2025 03:11:59.804] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1045, y=39, z=1429}
-[20Sep2025 03:11:59.805] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1045, y=39, z=1431}
-[20Sep2025 03:14:42.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to 1271.500000, 65.500000, 990.500000]
-[20Sep2025 03:16:44.901] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [53, 62], pos: BlockPos{x=863, y=7, z=994}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
-[20Sep2025 03:20:46.907] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=995, y=-36, z=572}
-[20Sep2025 03:21:13.630] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1296, y=-17, z=558}
-[20Sep2025 03:21:32.951] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1057, y=38, z=1470}
-[20Sep2025 03:23:13.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPKRich24 has made the advancement [Amateur Archaeologist]
-[20Sep2025 03:24:27.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to 1271.500000, 65.500000, 990.500000]
-[20Sep2025 03:26:35.995] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: renny_lopez_2020 lost connection: Disconnected
-[20Sep2025 03:26:35.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 left the game
-[20Sep2025 03:26:36.055] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[20Sep2025 03:27:07.811] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: renny_lopez_2020[/127.229.6.125:34557] logged in with entity id 34611 at (1278.624062523285, 63.0, 981.9598497846778)
-[20Sep2025 03:27:07.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 joined the game
-[20Sep2025 03:27:07.900] [Server thread/INFO] [Jade/]: Syncing config to renny_lopez_2020 (2f9457af-7f4e-3f5f-b2c9-33b3fe1ad451)
-[20Sep2025 03:27:54.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPKRich24 was slain by Cave Spider
-[20Sep2025 03:28:07.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TPKRich24: Teleported TPKRich24 to 924.500000, 15.500000, 1259.500000]
-[20Sep2025 03:31:22.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Spectator Mode]
-[20Sep2025 03:31:41.881] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/37181, l='ServerLevel[world]', x=1294.05, y=-256.00, z=987.35] died, message: 'Unemployed was killed'
-[20Sep2025 03:31:49.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Survival Mode]
-[20Sep2025 03:32:11.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [He's Watching...]
-[20Sep2025 03:34:28.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Spectator Mode]
-[20Sep2025 03:34:55.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Survival Mode]
-[20Sep2025 03:41:06.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Applied effect Night Vision to 3 targets]
-[20Sep2025 03:42:37.965] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1669, y=-12, z=965}
-[20Sep2025 03:42:49.301] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1695, y=-10, z=880}
-[20Sep2025 03:42:55.074] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1720, y=16, z=960}
-[20Sep2025 03:42:55.313] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1668, y=2, z=723}
-[20Sep2025 03:42:55.314] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1679, y=2, z=721}
-[20Sep2025 03:42:55.314] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1678, y=2, z=721}
-[20Sep2025 03:43:19.255] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1694, y=-18, z=641}
-[20Sep2025 03:43:57.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to 1280.500000, 41.500000, 1057.500000]
-[20Sep2025 03:44:58.284] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1913, y=-24, z=871}
-[20Sep2025 03:45:04.018] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1926, y=29, z=724}
-[20Sep2025 03:45:06.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest fell from a high place
-[20Sep2025 03:45:13.250] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1785, y=18, z=698}
-[20Sep2025 03:45:19.020] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1789, y=-28, z=662}
-[20Sep2025 03:45:19.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to 1280.500000, 41.500000, 1057.500000]
-[20Sep2025 03:45:26.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Applied effect Night Vision to 3 targets]
-[20Sep2025 03:45:31.170] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1726, y=-9, z=608}
-[20Sep2025 03:46:56.171] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=2007, y=-1, z=783}
-[20Sep2025 03:46:56.172] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=2008, y=-1, z=783}
-[20Sep2025 03:46:56.172] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=2009, y=-1, z=783}
-[20Sep2025 03:47:06.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 has made the advancement [Chompy]
-[20Sep2025 03:47:10.492] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1722, y=-25, z=503}
-[20Sep2025 03:47:10.492] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1722, y=-25, z=501}
-[20Sep2025 03:47:36.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to renny_lopez_2020]
-[20Sep2025 03:48:40.051] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: renny_lopez_2020 lost connection: Timed out
-[20Sep2025 03:48:40.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 left the game
-[20Sep2025 03:49:24.304] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2257, y=22, z=771}
-[20Sep2025 03:49:30.861] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: renny_lopez_2020[/127.229.6.125:41537] logged in with entity id 51601 at (1994.2841114549435, 67.0, 755.4681915409619)
-[20Sep2025 03:49:30.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 joined the game
-[20Sep2025 03:49:30.925] [Server thread/INFO] [Jade/]: Syncing config to renny_lopez_2020 (2f9457af-7f4e-3f5f-b2c9-33b3fe1ad451)
-[20Sep2025 03:49:46.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: renny_lopez_2020 moved too quickly! -4.474161802766048,1.7967356006687112,-8.838801841954137
-[20Sep2025 03:50:01.004] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: renny_lopez_2020 lost connection: Timed out
-[20Sep2025 03:50:01.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 left the game
-[20Sep2025 03:50:34.704] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1111, y=-2, z=1497}
-[20Sep2025 03:50:55.073] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2324, y=-41, z=669}
-[20Sep2025 03:50:55.074] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2325, y=-41, z=669}
-[20Sep2025 03:53:39.767] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2293, y=1, z=392}
-[20Sep2025 03:53:39.768] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2293, y=1, z=393}
-[20Sep2025 03:53:39.843] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2315, y=-6, z=388}
-[20Sep2025 03:53:39.844] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2315, y=-6, z=389}
-[20Sep2025 03:53:40.916] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2423, y=-8, z=550}
-[20Sep2025 03:53:49.526] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2432, y=-8, z=547}
-[20Sep2025 03:54:07.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TPKRich24: Teleported TPKRich24 to 1271.500000, 64.500000, 989.500000]
-[20Sep2025 03:54:26.415] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2133, y=-23, z=365}
-[20Sep2025 03:54:26.415] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2132, y=-23, z=365}
-[20Sep2025 03:54:35.369] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2063, y=25, z=322}
-[20Sep2025 03:56:30.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to 1271.500000, 65.500000, 990.500000]
-[20Sep2025 03:59:59.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPKRich24 has made the advancement [Full Platinum Armor]
-[20Sep2025 04:03:42.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPKRich24 has made the advancement [Platinum Sword!!!]
-[20Sep2025 04:05:15.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TPKRich24: Teleported TPKRich24 to 632.500000, 71.500000, 139.500000]
-[20Sep2025 04:05:17.528] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=748, y=7, z=142}
-[20Sep2025 04:05:22.057] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=658, y=6, z=-41}
-[20Sep2025 04:05:22.057] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=656, y=6, z=-41}
-[20Sep2025 04:05:22.938] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=799, y=-46, z=3}
-[20Sep2025 04:05:24.609] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=669, y=3, z=336}
-[20Sep2025 04:05:25.399] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=468, y=-23, z=-51}
-[20Sep2025 04:05:29.008] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=809, y=20, z=-90}
-[20Sep2025 04:06:06.362] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=326, y=-16, z=142}
-[20Sep2025 04:06:08.885] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=454, y=-36, z=-129}
-[20Sep2025 04:06:11.969] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=624, y=22, z=-156}
-[20Sep2025 04:06:15.995] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=626, y=13, z=-189}
-[20Sep2025 04:06:15.996] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=625, y=13, z=-189}
-[20Sep2025 04:06:35.303] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=233, y=-48, z=-63}
-[20Sep2025 04:14:46.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPKRich24 was slain by Cachalot Whale
-[20Sep2025 04:14:56.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TPKRich24: Teleported TPKRich24 to 590.500000, 60.500000, -230.500000]
-[20Sep2025 04:16:01.576] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
-[20Sep2025 04:22:20.573] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=168, y=-26, z=-84}
-[20Sep2025 04:22:20.573] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=167, y=-26, z=-84}
-[20Sep2025 04:24:44.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPKRich24 has made the advancement [I Don't Remember Doing This.]
-[20Sep2025 04:24:44.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPKRich24 has made the advancement [I'm on Singleplayer Right?]
-[20Sep2025 04:26:32.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Set own game mode to Creative Mode]
-[20Sep2025 04:26:46.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Set own game mode to Survival Mode]
-[20Sep2025 04:32:54.639] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:54.741] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:54.844] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:54.939] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:55.038] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:55.141] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:55.238] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:55.339] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:55.440] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:55.543] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:55.643] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:55.738] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:55.847] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:55.938] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:56.039] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:56.140] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:56.240] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:56.344] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:56.441] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:56.540] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:56.640] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:56.738] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:56.849] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:56.941] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:57.041] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:57.139] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:57.240] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:57.340] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:57.438] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:57.538] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:57.638] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:57.738] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:57.846] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:57.943] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:58.040] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:58.138] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:58.240] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:58.342] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:58.439] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:58.538] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:58.639] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:32:58.738] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Sep2025 04:44:34.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPKRich24 has reached the goal [Someone's Following Me...]
-[20Sep2025 04:47:16.557] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alest lost connection: Disconnected
-[20Sep2025 04:47:16.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest left the game
-[20Sep2025 04:47:20.070] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
-[20Sep2025 04:47:23.110] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=42, y=12, z=-166}
-[20Sep2025 04:47:39.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[20Sep2025 04:47:39.578] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
-[20Sep2025 04:47:39.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[20Sep2025 04:47:39.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[20Sep2025 04:47:39.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[20Sep2025 04:47:40.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20Sep2025 04:47:42.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
-[20Sep2025 04:47:42.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
-[20Sep2025 04:47:42.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20Sep2025 04:47:42.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20Sep2025 04:47:42.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20Sep2025 04:47:42.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
-[20Sep2025 04:47:42.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
-[20Sep2025 04:47:42.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20Sep2025 04:47:42.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20Sep2025 04:47:42.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20Sep2025 04:55:21.135] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[20Sep2025 04:55:21.139] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[20Sep2025 04:55:21.933] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[20Sep2025 04:55:21.992] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/respaldito-jeje/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[20Sep2025 04:55:22.425] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/respaldito-jeje/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[20Sep2025 04:55:22.426] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/respaldito-jeje/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[20Sep2025 04:55:22.428] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/respaldito-jeje/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[20Sep2025 04:55:22.429] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/respaldito-jeje/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[20Sep2025 04:55:22.950] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[20Sep2025 04:55:22.952] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: geckolib. Using Mod File: /workspaces/respaldito-jeje/servidor_minecraft/mods/geckolib-forge-1.20.1-4.7.4.jar
+[20Sep2025 04:55:22.952] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: /workspaces/respaldito-jeje/servidor_minecraft/mods/curios-forge-5.14.1+1.20.1.jar
+[20Sep2025 04:55:22.953] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: cumulus_menus. Using Mod File: /workspaces/respaldito-jeje/servidor_minecraft/mods/cumulus_menus-1.20.1-1.0.0-neoforge.jar
+[20Sep2025 04:55:22.953] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 21 dependencies adding them to mods collection
+[20Sep2025 04:55:23.038] [main/ERROR] [net.minecraftforge.fml.loading.ModSorter/LOADING]: Missing or unsupported mandatory dependencies:
+	Mod ID: 'monolib', Requested by: 'disenchanting_table', Expected range: '[2.1.0,)', Actual version: '[MISSING]'
+	Mod ID: 'puzzleslib', Requested by: 'enchantinginfuser', Expected range: '[8.1.13,)', Actual version: '[MISSING]'
+	Mod ID: 'otyacraftengine', Requested by: 'iammusicplayer', Expected range: '[3.7.0-alpha.2,)', Actual version: '[MISSING]'
+[20Sep2025 04:55:24.498] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[20Sep2025 04:55:30.144] [main/FATAL] [net.minecraftforge.fml.ModLoader/CORE]: Error during pre-loading phase
+net.minecraftforge.fml.ModLoadingException: Mod §edisenchanting_table§r requires §6monolib§r §o2.1.0 or above§r
+§7Currently, §6monolib§r§7 is §o§nnot installed
+	at net.minecraftforge.fml.ModLoadingException.lambda$fromEarlyException$0(ModLoadingException.java:50) ~[fmlcore-1.20.1-47.3.7.jar%23188!/:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
+	at java.util.AbstractList$RandomAccessSpliterator.forEachRemaining(AbstractList.java:720) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[?:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.<init>(ModLoader.java:96) ~[fmlcore-1.20.1-47.3.7.jar%23188!/:?]
+	at net.minecraftforge.fml.ModLoader.get(ModLoader.java:128) ~[fmlcore-1.20.1-47.3.7.jar%23188!/:?]
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:30) ~[forge-1.20.1-47.3.7-universal.jar%23192!/:?]
+	at net.minecraft.server.Main.main(Main.java:125) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[20Sep2025 04:55:30.215] [main/FATAL] [net.minecraftforge.server.loading.ServerModLoader/]: Crash report saved to ./crash-reports/crash-2025-09-20_04.55.30-fml.txt
+[20Sep2025 04:55:30.219] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
+net.minecraftforge.fml.LoadingFailedException: Loading errors encountered: [
+	Mod §edisenchanting_table§r requires §6monolib§r §o2.1.0 or above§r
+§7Currently, §6monolib§r§7 is §o§nnot installed,
+	Mod §eenchantinginfuser§r requires §6puzzleslib§r §o8.1.13 or above§r
+§7Currently, §6puzzleslib§r§7 is §o§nnot installed,
+	Mod §eiammusicplayer§r requires §6otyacraftengine§r §o3.7.0-alpha.2 or above§r
+§7Currently, §6otyacraftengine§r§7 is §o§nnot installed
+]
+	at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:149) ~[fmlcore-1.20.1-47.3.7.jar%23188!/:?]
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:30) ~[forge-1.20.1-47.3.7-universal.jar%23192!/:?]
+	at net.minecraft.server.Main.main(Main.java:125) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
