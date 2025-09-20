@@ -212,3 +212,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Sep2025 01:57:23.879] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1636, l='ServerLevel[world]', x=1294.05, y=-256.00, z=987.35] died, message: 'Unemployed was killed'
 [20Sep2025 01:58:11.320] [Worker-Main-11/INFO] [citadel/]: vanilla surface rule behavior unchanged
 [20Sep2025 01:58:20.880] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1872, l='ServerLevel[world]', x=1294.05, y=-256.00, z=987.35] died, message: 'Unemployed was killed'
+[20Sep2025 02:03:46.655] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'gm4-1.4:intro_song/welcome_toast' in progress file ./world/advancements/4c936e16-7e1c-33dd-93da-5f1579d39599.json - it doesn't exist anymore?
+[20Sep2025 02:03:46.655] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'gm4-1.4:intro_song/play_song' in progress file ./world/advancements/4c936e16-7e1c-33dd-93da-5f1579d39599.json - it doesn't exist anymore?
+[20Sep2025 02:03:46.667] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alest[/127.187.155.65:34545] logged in with entity id 3411 at (1265.5, 65.0, 990.5)
+[20Sep2025 02:03:46.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest joined the game
+[20Sep2025 02:03:46.812] [Server thread/INFO] [Jade/]: Syncing config to Alest (4c936e16-7e1c-33dd-93da-5f1579d39599)
+[20Sep2025 02:06:34.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Applied effect Night Vision to 2 targets]

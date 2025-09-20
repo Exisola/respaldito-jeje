@@ -5317,17 +5317,5 @@
     },
     "done": true
   },
-  "gm4-1.4:intro_song/welcome_toast": {
-    "criteria": {
-      "requirement": "2025-09-18 17:51:00 +0000"
-    },
-    "done": true
-  },
-  "gm4-1.4:intro_song/play_song": {
-    "criteria": {
-      "requirement": "2025-09-18 17:51:01 +0000"
-    },
-    "done": true
-  },
   "DataVersion": 3465
 }
