@@ -218,3 +218,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Sep2025 02:03:46.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest joined the game
 [20Sep2025 02:03:46.812] [Server thread/INFO] [Jade/]: Syncing config to Alest (4c936e16-7e1c-33dd-93da-5f1579d39599)
 [20Sep2025 02:06:34.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Applied effect Night Vision to 2 targets]
+[20Sep2025 02:23:39.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Executed 281 command(s) from function 'fromthefog:admin/fake_herobrine/create']
+[20Sep2025 02:24:01.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Executed 2 command(s) from function 'fromthefog:admin/fake_herobrine/remove']
+[20Sep2025 02:24:05.589] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[20Sep2025 02:25:11.156] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=977, y=37, z=774}
+[20Sep2025 02:27:31.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to renny_lopez_2020]
+[20Sep2025 02:30:11.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest was slain by Murmur
+[20Sep2025 02:30:25.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to renny_lopez_2020]
+[20Sep2025 02:30:28.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Applied effect Night Vision to 2 targets]
