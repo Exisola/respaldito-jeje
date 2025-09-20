@@ -320,3 +320,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Sep2025 03:54:35.369] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2063, y=25, z=322}
 [20Sep2025 03:56:30.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Teleported Alest to 1271.500000, 65.500000, 990.500000]
 [20Sep2025 03:59:59.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPKRich24 has made the advancement [Full Platinum Armor]
+[20Sep2025 04:03:42.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPKRich24 has made the advancement [Platinum Sword!!!]
+[20Sep2025 04:05:15.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TPKRich24: Teleported TPKRich24 to 632.500000, 71.500000, 139.500000]
+[20Sep2025 04:05:17.528] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=748, y=7, z=142}
+[20Sep2025 04:05:22.057] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=658, y=6, z=-41}
+[20Sep2025 04:05:22.057] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=656, y=6, z=-41}
+[20Sep2025 04:05:22.938] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=799, y=-46, z=3}
+[20Sep2025 04:05:24.609] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=669, y=3, z=336}
+[20Sep2025 04:05:25.399] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=468, y=-23, z=-51}
+[20Sep2025 04:05:29.008] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=809, y=20, z=-90}
+[20Sep2025 04:06:06.362] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=326, y=-16, z=142}
+[20Sep2025 04:06:08.885] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=454, y=-36, z=-129}
+[20Sep2025 04:06:11.969] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=624, y=22, z=-156}
+[20Sep2025 04:06:15.995] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=626, y=13, z=-189}
+[20Sep2025 04:06:15.996] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=625, y=13, z=-189}
+[20Sep2025 04:06:35.303] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=233, y=-48, z=-63}
+[20Sep2025 04:14:46.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPKRich24 was slain by Cachalot Whale
+[20Sep2025 04:14:56.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TPKRich24: Teleported TPKRich24 to 590.500000, 60.500000, -230.500000]
+[20Sep2025 04:16:01.576] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[20Sep2025 04:22:20.573] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=168, y=-26, z=-84}
+[20Sep2025 04:22:20.573] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=167, y=-26, z=-84}
+[20Sep2025 04:24:44.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPKRich24 has made the advancement [I Don't Remember Doing This.]
+[20Sep2025 04:24:44.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TPKRich24 has made the advancement [I'm on Singleplayer Right?]
+[20Sep2025 04:26:32.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Set own game mode to Creative Mode]
+[20Sep2025 04:26:46.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Set own game mode to Survival Mode]
